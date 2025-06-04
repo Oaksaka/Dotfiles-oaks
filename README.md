@@ -1,5 +1,5 @@
 # Dotfiles-oaks
-What is used for the 🍚: yasb, komorebi, Vim, cava, fastfetch, & the 😎 wallpaper
+What is used for the 🍚: yasb, komorebi, starship, Vim, cava, fastfetch, & the 😎 wallpaper i prlly 4got sum but wtv
 
 ⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⠤⣤⣤⣤⣤⣄⡠⣤⣤⣤⣤⣤⣤⣤⣤⣤⡄⠀⢠⣤⢤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤⣤
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⡟⣴⠿⣽⣻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣻⣿⣿⣿⣿⣿⣫⣿⡿⠀⠀⠀⢻⡿⣿⣿⣿⢿⣻⣟⣿⢿⣿⣿⣿⣿⣿
