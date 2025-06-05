@@ -1,0 +1,59 @@
+{
+  "$schema": "https://raw.githubusercontent.com/LGUG2Z/komorebi/v0.1.37/schema.json",
+  "app_specific_configuration_path": "$Env:USERPROFILE/applications.json",
+  "window_hiding_behaviour": "Cloak",
+  "cross_monitor_move_behaviour": "Insert",
+  "default_workspace_padding": 40,
+  "default_container_padding": 10,
+  "border": true,
+  "border_width": 4,
+  "border_offset": -1,
+  "transparency": true,
+  "transparency_alpha": 200,
+  "animation": {
+    "enabled":true,
+    "duration": 300,
+    "fps": 165,
+    "style": "EaseInOutSine"
+  },
+  "border_colours": {
+    "single": "#a6c9ff",
+    "monocle": "#263150",
+    "floating": "#b0e0f7",
+    "unfocused": "#7c859b"
+  },
+  "monitors": [
+    {
+      "workspaces": [
+        {
+          "name": "I",
+          "layout": "BSP"
+        },
+        {
+          "name": "II",
+          "layout": "BSP"
+        },
+        {
+          "name": "III",
+          "layout": "BSP"
+        },
+        {
+          "name": "IV",
+          "layout": "BSP"
+        },
+        {
+          "name": "V",
+          "layout": "BSP"
+        },
+        {
+          "name": "VI",
+          "layout": "BSP"
+        },
+        {
+          "name": "VII",
+          "layout": "BSP"
+        }
+      ]
+    }
+  ]
+}
