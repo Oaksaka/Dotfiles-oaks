@@ -14,14 +14,14 @@
   "animation": {
     "enabled":true,
     "fps": 165,
-    "style":"EaseInOutExpo"
+    "duration": 200,
+    "style":"EaseOutExpo"
   },
-  "theme": {
-    "palette": "Base16",
-    "name": "Nord",
-    "unfocused_border": "Base01",
-    "single_border": "Base07",
-    "floating_border": "Base00"
+  "border_colours": {
+    "single": "#E2C47E",
+    "unfocused": "#a08b5e",
+    "monocle": "#C2A86C",
+    "floating": "#E2C47E"
   },
   "monitors": [
     {
