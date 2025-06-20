@@ -364,12 +364,12 @@ widgets:
     options:
       bar_height: 14
       min_bar_height: 1
-      gradient: 0
+      gradient: 1
       reverse: 0
-      foreground: "#E2C47E"
-      gradient_color_1: '#778385'
-      gradient_color_2: '#44474A'
-      gradient_color_3: '#B4BE7C'
+      foreground: "#fff1d4"
+      gradient_color_1: '#E2C47E'
+      gradient_color_2: '#C2A86C'
+      gradient_color_3: '#fff1d4'
       bars_number: 8
       bar_spacing: 2
       bar_width: 4
