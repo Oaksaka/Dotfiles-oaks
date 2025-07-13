@@ -1,0 +1,552 @@
+/* 
+This is default and very simple styles file for Yasb. 
+For more information about configuration options, please visit the Wiki https://github.com/amnweb/yasb/wiki
+*/
+:root {
+    --mauve: #cba6f7;
+    --red: #f38ba8;
+    --yellow: #bdc091;
+    --blue: #47a9dc;
+    --lavender: #363636;
+    --text: #ccdfdd;
+    --subtext1: #bac2de;
+    --subtext0: #a6adc8;
+    --overlay2: #9399b2;
+    --overlay1: #9b988a;
+    --overlay0: #6c7086;
+    --surface2: #585b70;
+    --surface1: #20202042;
+    --surface0: #2f2f30;
+    --base: #1e1e2e;
+    --crust: #131313dd;
+}
+/* Global styles for ToolTip */
+QToolTip {
+    padding: 6px;
+    color: #cdd6f4;
+    font-size: 12px;
+    background-color: #1e1e2e;
+    border: 0px solid #313244;
+    border-radius: 6px;
+}
+* {
+    font-size: 12px;
+    color: var(--text);
+    font-weight: 400;
+    font-family: "0xProto Nerd Font Mono";
+    margin: 0;
+    padding: 0;
+}
+.yasb-bar {
+    padding: 0;
+    margin: 0;
+    background-color: var(--crust);
+    border-radius: 0px;
+}
+.widget {
+    padding: 0 12px;
+    margin: 0;
+}
+.icon {
+    font-size: 16px;
+}
+.widget .label {
+    padding: 0px 2px;
+}
+.komorebi-active-layout {
+    padding: 0 4px 0 0;
+}
+.komorebi-active-layout .label {
+    color: #70757a;
+    font-weight: 500;
+    padding: 2px 0 0 0;
+}
+.komorebi-workspaces {
+    border-top-right-radius: 14px;
+    border-bottom-right-radius: 14px;
+    padding: 0 0px 0 10;
+}
+.komorebi-workspaces .offline-status {
+    color: var(--surface2);
+    font-size: 12px;
+    padding: 0 0 0 4px;
+    font-weight: 600;
+}
+.komorebi-workspaces .ws-btn {
+    border: none;
+    background-color: transparent;
+    margin: 0;
+    font-size: 12px;
+    color: var(--overlay1);
+    height: 28px;
+    width: 18px;
+}
+.komorebi-workspaces .ws-btn:hover {
+    color: var(--subtext1);
+}
+.komorebi-workspaces .ws-btn.populated {
+    color: transparent;
+    width: 10px;
+    height: 10px;
+    background-color: var(--lavender);
+    border-radius: 5px;
+    margin: 0 4px;
+    font-size: 1px;
+}
+.komorebi-workspaces .ws-btn.active {
+    color: transparent;
+    background-color: var(--blue);
+    width: 30px;
+    max-width: 30px;
+    height: 10px;
+    margin: 0 4px;
+    border-radius: 5px;
+}
+.apps-widget {
+    padding: 0 4px 0 2px;
+}
+.apps-widget .label {
+    font-size: 14px;
+    padding: 0 2px;
+    color: var(--subtext0);
+}
+.apps-widget .label:hover {
+    color: var(--text);
+}
+
+.power-menu-widget .label {
+    color: #f38ba8;
+    font-size: 13px;
+}
+.power-menu-popup {
+    background-color: transparent
+}
+.power-menu-popup .button {
+    padding: 0;
+    width: 180px;
+    height: 230px;
+    border-radius: 8px;
+    background-color: var(--crust);
+    color: var(--text);
+    border-left: 4px solid rgba(58, 59, 83, 0);
+    border-right: 4px solid rgba(58, 59, 83, 0);
+    border-top: 4px solid rgba(58, 59, 83, 0);
+    border-bottom: 4px solid rgba(58, 59, 83, 0);
+    margin: 0px;
+}
+.power-menu-popup .button.hover {
+    background-color: var(--base);
+    border-left: 4px solid var(--base);
+    border-right: 4px solid var(--base);
+    border-top: 4px solid var(--base);
+    border-bottom: 4px solid var(--base);
+}
+
+.power-menu-popup .button .label {
+    margin-bottom: 8px;
+    font-size: 16px;
+    font-weight: 500;
+    color: var(--overlay2)
+}
+.power-menu-popup .button .icon {
+    font-size: 64px;
+    padding-top: 32px;
+    color: var(--surface2)
+}
+
+.power-menu-popup .button.cancel .icon {
+    padding: 0;
+    margin: 0;
+}
+.power-menu-popup .button.cancel .label {
+    color: var(--red);
+    margin: 0;
+}
+.power-menu-popup .button.cancel {
+    height: 32px;
+    border-radius: 4px;
+}
+.uptime {
+    font-size: 14px;
+    margin-bottom: 10px;
+    color: var(--surface2);
+    font-weight: 600;
+}
+.microphone-widget {
+    padding: 0 6px 0 6px;
+}
+.microphone-widget .icon {
+    font-size: 18px;
+}
+.microphone-widget .icon {
+    color: var(--mauve);
+}
+.volume-widget .icon {
+    font-size: 17px;
+    color: var(--blue);
+    margin: 0px 0px 0 0;
+}
+.weather-widget,
+.volume-widget {
+    padding: 0 10px 0 0;
+}
+.weather-widget .icon {
+    font-size: 18px;
+    margin: 0 2px 1px 0;
+    color: var(--yellow);
+}
+.media-widget {
+    padding: 0 10px 0 0px;
+    margin: 0;
+    border-radius: 0;
+}
+.media-widget .label {
+    color: var(--text);
+    padding: 0px;
+    padding-right: 4px;
+    font-size: 12px;
+}
+.media-widget .btn {
+    color: #7a7f8b;
+    padding: 0 4px;
+    margin: 0;
+    font-family: "Segoe Fluent Icons";
+    font-weight: 400;
+    font-size: 20px;
+}
+.media-widget .btn:hover {
+    color: #babfd3;
+}
+.media-widget .btn.play {
+    font-size: 24px;
+    color: #989caa;
+}
+.media-widget .btn.disabled:hover,
+.media-widget .btn.disabled {
+    color: #4e525c;
+    background-color: rgba(0, 0, 0, 0);
+    font-size: 20px;
+}
+.media-menu {
+    min-width: 420px;
+    max-width: 420px;
+    background-color: var(--crust);
+}
+.media-menu .title,
+.media-menu .artist,
+.media-menu .source {
+    font-size: 14px;
+    font-weight: 400;
+    margin-left: 10px;
+    font-family: '0xProto Nerd Font Mono';
+}
+.media-menu .title {
+    font-size: 14px;
+    color: var(--text); 
+    font-weight: 400;
+    margin-left: 10px;
+}
+.media-menu .artist {
+    font-size: 13px;
+    color: var(--text);
+    margin-top: 0px;
+    margin-bottom: 8px;
+}
+.media-menu .source {
+    font-size: 11px;
+    color: #000;
+    font-weight: normal;
+    border-radius: 3px;
+    background-color: var(--overlay1);
+    padding: 2px 4px;
+
+}
+/* The source class name is the same as what you see in the media widget; just replace spaces with dashes and convert it to lowercase. 
+Example: "Windows Media" becomes "windows-media" */
+.media-menu .source.firefox {
+    background-color: #ff583b;
+    color: #ffffff;
+}
+.media-menu .source.spotify {
+    background-color: #199143;
+    color: #ffffff;
+}
+.media-menu .source.edge {
+    background-color: #0078d4;
+    color: #ffffff;
+}
+.media-menu .source.windows-media {
+    background-color: #0078d4;
+    color: #ffffff;
+}
+.media-menu .btn {
+    font-family: "Segoe Fluent Icons";
+    font-size: 14px;
+    font-weight: 400;
+    margin: 10px 2px 0px 2px;
+    min-width: 40px;
+    max-width: 40px;
+    min-height: 40px;
+    max-height: 40px;
+    border-radius: 20px;
+}
+.media-menu .btn.prev {
+    margin-left: 10px;
+}
+.media-menu .btn:hover {
+    color: white;
+    background-color: rgba(255, 255, 255, 0.1);
+}
+.media-menu .btn.play {
+    background-color: rgba(255, 255, 255, 0.1);
+    font-size: 20px
+}
+.media-menu .btn.disabled:hover,
+.media-menu .btn.disabled {
+    color: #5a5a5a;
+    background-color: rgba(0, 0, 0, 0);
+}
+
+.media-menu .playback-time {
+    font-size: 13px;
+    font-family: '0xProto Nerd Font Mono';
+    color: var(--text);
+    margin-top: 20px;
+    min-width: 100px;
+}
+.media-menu .progress-slider {
+    height: 10px;
+    margin: 5px 4px;
+    border-radius: 3px;
+}
+.media-menu .progress-slider::groove {
+    background: transparent;
+    height: 2px;
+    border-radius: 3px;
+    background: rgba(255, 255, 255, 0.1);
+
+}
+.media-menu .progress-slider::groove:hover {
+    background: transparent;
+    height: 6px;
+    border-radius: 3px;
+    background: rgba(255, 255, 255, 0.2);
+}
+.media-menu .progress-slider::sub-page {
+    background: var(--blue);
+    border-radius: 3px;
+    height: 4px;
+}
+/* home lol */
+img {
+    border-radius: 50%;
+}
+.home-widget {
+    padding: 0 4px 0px 8px;
+}
+.home-widget .label {
+    border-radius: 50%;
+	font-size: 12px;
+	color: #70757a;
+	font-weight: 1000;
+	font-family: "0xProto Nerd Font Mono";
+}
+.home-widget .icon {
+    color: #7a7a7a;
+}
+.home-widget .icon:hover {
+    color: #999999;
+}
+.home-menu {
+    background-color:var(--crust); 
+}
+.home-menu .menu-item {
+    padding: 6px 48px 7px 16px;
+    font-size: 12px;
+    font-family: '0xProto Nerd Font Mono', Tahoma, Geneva, Verdana, sans-serif;
+    color: var(--text); 
+    font-weight: 400;
+}
+.home-menu .menu-item:hover {
+    background-color:rgba(158, 153, 128, 0.15);
+    color: #fff;
+}
+.home-menu .separator {
+    max-height: 1px;
+    background-color:rgba(128, 130, 158, 0.3);
+}
+
+.notification-widget {
+    padding: 0 0px 0 4px;
+}
+.notification-widget .icon {
+    font-size: 14px;
+}
+.notification-widget .icon.new-notification {
+    color: var(--blue);
+}
+.battery-widget.status-charging .icon {
+  color: #74c7ec;
+}
+.battery-widget.status-full .icon {
+  color: #94e2d5;
+}
+.battery-widget.status-high .icon {
+  color: #a6e3a1;
+}
+.battery-widget.status-medium .icon {
+  color: #f9e2af;
+}
+.battery-widget.status-low .icon {
+  color: #fab387;
+}
+.battery-widget.status-critical .icon {
+  color: #f38ba8;
+}
+
+/* walpaper shhessh */
+
+.wallpapers-widget {
+    padding: 0 6px 2px 10px;
+}
+.wallpapers-gallery-window {
+    background-color: rgba(233, 233, 233, 0.01);
+    border: 0;
+    margin: 0;
+}
+.wallpapers-gallery-buttons {
+    background-color:rgba(255, 255, 255, 0);
+    color: white;
+    border: none;
+    font-size: 14px;
+    padding: 8px 0;
+    border-radius: 8px;
+    margin:0 8px 8px 8px;
+    width: 600px;
+}
+.wallpapers-gallery-buttons:hover {
+    background-color:rgba(255, 255, 255, 0.1)
+}
+.wallpapers-gallery-image {
+    border: 4px solid transparent;
+    border-radius: 10px;
+}
+.wallpapers-gallery-image:hover {
+    border: 4px solid rgb(66, 68, 83);
+}
+.wallpapers-gallery-image.focused {
+    border: 4px solid var(--blue);
+}
+
+/* ICONS */
+.icon {
+	font-size: 16px;
+}
+.volume-widget .icon {
+	color: #70a8b4;
+	margin: 1px 0px 0 0;
+}
+.battery-widget.status-charging .icon,
+.battery-widget.status-critical .icon,
+.battery-widget.status-full .icon,
+.battery-widget.status-high .icon,
+.battery-widget.status-low .icon,
+.battery-widget.status-medium .icon,
+.cpu-widget .icon,
+.memory-widget .icon {
+	font-size: 16px;
+	color: #245185;
+    padding: 0 0px 0 0px;
+	margin: 0 2px 0px 0;
+}
+.memory-widget .icon {
+	color: #a64456;
+}
+.wifi-widget .icon {
+	color: #81A1C1;
+	padding: 0 0px 0 0px;
+	margin: 0;
+}
+.cava-widget {
+    padding: 0;
+    margin: 0;
+}
+
+
+.separator-widget .label {
+  padding: 0px -2px 0 -2;
+  margin: 0px 0px 0px 0px;
+}
+
+.separator-widget .widget-container {
+  background-color: var(--widget-background);
+}
+.weather-widget {
+    padding: 0 4 0 0;
+    margin: 0;
+}
+.calendar {
+    background-color: var(--crust);
+}
+.calendar .calendar-table,
+.calendar .calendar-table::item {
+    background-color: var(--surface1);
+    color: var(--text);
+    font-family: '0xProto Nerd Font Mono';
+    margin: 0;
+    padding: 0;
+    border: none;
+    outline: none;  
+}
+.calendar .calendar-table::item:selected {
+    color: var(--overlay1);
+}
+.calendar .day-label {
+    margin-top: 20px;
+}
+.calendar .day-label,
+.calendar .month-label,
+.calendar .date-label {
+    font-family: '0xProto Nerd Font Mono';
+    font-size: 16px;
+    color: var(--text);
+    font-weight: 700;
+    min-width: 180px;
+    max-width: 180px;
+}
+.calendar .month-label {
+    font-weight: normal;
+}
+.calendar .date-label {
+    font-size: 88px;
+    font-weight: 900;
+    color: var(--text);
+    margin-top: -20px;
+}
+.taskbar-widget {
+    padding: 0;
+    margin: 0;
+}
+.taskbar-widget .app-icon {
+    padding:0 6px;
+}
+.volume-slider {
+    border: none;
+}
+.audio-menu {
+    background-color:var(--crust); 
+}
+.audio-container .device {
+    background-color:transparent;
+    border: none;
+    padding:6px 8px 6px 4px;
+    margin: 2px 0;
+    font-size: 12px;
+    border-radius: 4px;
+}
+.audio-container .device.selected {
+    background-color: rgba(255, 255, 255, 0.085);
+}
+.audio-container .device:hover {
+    background-color: rgba(255, 255, 255, 0.06);
+}
