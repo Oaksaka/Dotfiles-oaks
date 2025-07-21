@@ -1,0 +1,142 @@
+{
+  "$schema": "https://github.com/fastfetch-cli/fastfetch/raw/dev/doc/json_schema.json",
+  "logo": {
+    "source": "C:\\customizations\\BRS.txt",
+    "type":"file",
+    "padding": {
+      "top": 0,
+      "right": 2
+    },
+    "color": {
+      "1":"bright_", 
+      "2": "magenta",
+      "3": "green",
+      "4": "red"
+    }
+  },
+  "modules": [
+    "title",
+    "break",
+    {
+      "type": "colors",
+      "symbol": "star"
+    },
+    "break",
+    {
+    "type": "os",
+    "key": "OS",
+    "keyColor": "blue"
+    },
+    {
+    "type": "host",
+    "key": "Host",
+    "keyColor": "blue"
+    },
+    {
+    "type": "kernel",
+    "key": "Kernel",
+    "keyColor": "blue"
+    },
+    {
+    "type": "packages",
+    "key": "Packages",
+    "keyColor": "blue"
+    },
+    {
+    "type": "shell",
+    "key": "Shell",
+    "keyColor": "blue"
+    },
+    {
+    "type": "display",
+    "key": "Display",
+    "keyColor": "blue"
+    },
+
+    "break",
+
+    {
+    "type": "de",
+    "key": "DE",
+    "keyColor": "magenta"
+    },
+    {
+    "type": "wm",
+    "key": "WM",
+    "keyColor": "magenta"
+    },
+    {
+    "type": "wmtheme",
+    "key": "WM Theme",
+    "keyColor": "magenta"
+    },
+    {
+    "type": "theme",
+    "key": "Theme",
+    "keyColor": "magenta"
+    },
+    {
+    "type": "font",
+    "key": "Font",
+    "keyColor": "magenta"
+    },
+    {
+    "type": "cursor",
+    "key": "Cursor",
+    "keyColor": "magenta"
+    },
+
+    "break",
+
+    {
+    "type": "terminal",
+    "key": "Terminal",
+    "keyColor": "green"
+    },
+    {
+    "type": "terminalfont",
+    "key": "Terminal Font",
+    "keyColor": "green"
+    },
+
+    "break",
+
+    {
+    "type": "cpu",
+    "key": "CPU",
+    "keyColor": "red"
+    },
+    {
+    "type": "gpu",
+    "key": "",
+    "keyColor": "red"
+    },
+    {
+    "type": "memory",
+    "key": "Memory",
+    "keyColor": "red"
+    },
+    {
+    "type": "swap",
+    "key": "Swap",
+    "keyColor": "red"
+    },
+    {
+    "type": "disk",
+    "key": "",
+    "keyColor": "red"
+    },
+
+    "break",
+    {
+      "type": "colors",
+      "symbol": "star"
+    },
+    "break",
+    {
+      "type": "uptime",
+      "key": "Uptime",
+      "keyColor":"cyan"
+    }
+  ]
+}
