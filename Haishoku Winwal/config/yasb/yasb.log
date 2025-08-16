@@ -1,0 +1,444 @@
+2025-08-15 21:44:19,054 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-08-15 21:44:19,279 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-08-15 21:44:19,407 [INFO] [MainThread] [root/bar_manager.py:74]: Starting KomorebiEventListener...
+2025-08-15 21:44:19,408 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\ACER\.config\yasb
+2025-08-15 21:44:19,409 [INFO] [Dummy-5] [root/event_listener.py:51]: Created named pipe yasb-f1731fc4-79dd-11f0-b9b1-80897690a29f
+2025-08-15 21:44:19,461 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-08-15 21:44:19,462 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-08-15 21:44:19,503 [INFO] [Dummy-5] [root/event_listener.py:125]: Komorebi connected to named pipe: yasb-f1731fc4-79dd-11f0-b9b1-80897690a29f
+2025-08-15 21:44:21,890 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:253]: CLI server received command: toggle-widget wallpapers --follow-focus
+2025-08-15 21:44:30,233 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:253]: CLI server received command: stop
+2025-08-15 21:44:30,233 [INFO] [Thread-1 (_run_server)] [root/controller.py:30]: Exiting Application from CLI...
+2025-08-15 21:44:30,340 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-08-15 21:44:30,340 [DEBUG] [Thread-1 (_run_server)] [cli_server/cli_server.py:206]: CLI server stopped
+2025-08-15 21:44:30,340 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:218]: Stopping worker thread...
+2025-08-15 21:44:30,355 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:201]: Exiting thread
+2025-08-15 21:44:30,356 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:75]: Closing
+2025-08-15 21:44:30,762 [INFO] [MainThread] [root/log.py:59]: YASB v1.7.9
+2025-08-15 21:44:30,762 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.2
+2025-08-15 21:44:30,763 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-08-15 21:44:30,900 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-08-15 21:44:31,109 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-08-15 21:44:31,237 [INFO] [MainThread] [root/bar_manager.py:74]: Starting KomorebiEventListener...
+2025-08-15 21:44:31,238 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\ACER\.config\yasb
+2025-08-15 21:44:31,250 [INFO] [Dummy-5] [root/event_listener.py:51]: Created named pipe yasb-f88040da-79dd-11f0-8431-80897690a29f
+2025-08-15 21:44:31,287 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-08-15 21:44:31,288 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-08-15 21:44:31,331 [INFO] [Dummy-5] [root/event_listener.py:125]: Komorebi connected to named pipe: yasb-f88040da-79dd-11f0-8431-80897690a29f
+2025-08-15 21:44:34,438 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:253]: CLI server received command: toggle-widget wallpapers --follow-focus
+2025-08-15 21:44:49,765 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:253]: CLI server received command: stop
+2025-08-15 21:44:49,766 [INFO] [Thread-1 (_run_server)] [root/controller.py:30]: Exiting Application from CLI...
+2025-08-15 21:44:49,873 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-08-15 21:44:49,873 [DEBUG] [Thread-1 (_run_server)] [cli_server/cli_server.py:206]: CLI server stopped
+2025-08-15 21:44:49,873 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:218]: Stopping worker thread...
+2025-08-15 21:44:49,888 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:201]: Exiting thread
+2025-08-15 21:44:49,888 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:75]: Closing
+2025-08-15 21:44:50,299 [INFO] [MainThread] [root/log.py:59]: YASB v1.7.9
+2025-08-15 21:44:50,300 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.2
+2025-08-15 21:44:50,300 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-08-15 21:44:50,445 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-08-15 21:44:50,667 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-08-15 21:44:50,800 [INFO] [MainThread] [root/bar_manager.py:74]: Starting KomorebiEventListener...
+2025-08-15 21:44:50,801 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\ACER\.config\yasb
+2025-08-15 21:44:50,801 [INFO] [Dummy-5] [root/event_listener.py:51]: Created named pipe yasb-04296ba2-79de-11f0-8911-80897690a29f
+2025-08-15 21:44:50,852 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-08-15 21:44:50,853 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-08-15 21:44:50,923 [INFO] [Dummy-5] [root/event_listener.py:125]: Komorebi connected to named pipe: yasb-04296ba2-79de-11f0-8911-80897690a29f
+2025-08-15 21:45:01,026 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:253]: CLI server received command: toggle-widget wallpapers --follow-focus
+2025-08-15 21:45:01,980 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:253]: CLI server received command: toggle-widget wallpapers --follow-focus
+2025-08-15 21:45:35,636 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:253]: CLI server received command: toggle-widget launchpad --follow-focus
+2025-08-15 21:45:39,085 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:253]: CLI server received command: toggle-widget launchpad --follow-focus
+2025-08-15 21:45:47,690 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:253]: CLI server received command: toggle-widget wallpapers --follow-focus
+2025-08-15 21:45:56,860 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:253]: CLI server received command: stop
+2025-08-15 21:45:56,860 [INFO] [Thread-1 (_run_server)] [root/controller.py:30]: Exiting Application from CLI...
+2025-08-15 21:45:56,973 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-08-15 21:45:56,973 [DEBUG] [Thread-1 (_run_server)] [cli_server/cli_server.py:206]: CLI server stopped
+2025-08-15 21:45:56,973 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:218]: Stopping worker thread...
+2025-08-15 21:45:56,989 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:201]: Exiting thread
+2025-08-15 21:45:56,990 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:75]: Closing
+2025-08-15 21:45:57,392 [INFO] [MainThread] [root/log.py:59]: YASB v1.7.9
+2025-08-15 21:45:57,392 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.2
+2025-08-15 21:45:57,393 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-08-15 21:45:57,537 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-08-15 21:45:57,759 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-08-15 21:45:57,887 [INFO] [MainThread] [root/bar_manager.py:74]: Starting KomorebiEventListener...
+2025-08-15 21:45:57,888 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\ACER\.config\yasb
+2025-08-15 21:45:57,901 [INFO] [Dummy-5] [root/event_listener.py:51]: Created named pipe yasb-2c2609ce-79de-11f0-98d0-80897690a29f
+2025-08-15 21:45:57,933 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-08-15 21:45:57,934 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-08-15 21:45:58,008 [INFO] [Dummy-5] [root/event_listener.py:125]: Komorebi connected to named pipe: yasb-2c2609ce-79de-11f0-98d0-80897690a29f
+2025-08-15 21:46:03,714 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:253]: CLI server received command: toggle-widget wallpapers --follow-focus
+2025-08-15 21:46:13,223 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:253]: CLI server received command: stop
+2025-08-15 21:46:13,223 [INFO] [Thread-1 (_run_server)] [root/controller.py:30]: Exiting Application from CLI...
+2025-08-15 21:46:13,334 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-08-15 21:46:13,334 [DEBUG] [Thread-1 (_run_server)] [cli_server/cli_server.py:206]: CLI server stopped
+2025-08-15 21:46:13,334 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:218]: Stopping worker thread...
+2025-08-15 21:46:13,350 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:201]: Exiting thread
+2025-08-15 21:46:13,351 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:75]: Closing
+2025-08-15 21:46:13,817 [INFO] [MainThread] [root/log.py:59]: YASB v1.7.9
+2025-08-15 21:46:13,818 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.2
+2025-08-15 21:46:13,818 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-08-15 21:46:13,966 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-08-15 21:46:14,187 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-08-15 21:46:14,320 [INFO] [MainThread] [root/bar_manager.py:74]: Starting KomorebiEventListener...
+2025-08-15 21:46:14,320 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\ACER\.config\yasb
+2025-08-15 21:46:14,334 [INFO] [Dummy-5] [root/event_listener.py:51]: Created named pipe yasb-35f1704f-79de-11f0-8a22-80897690a29f
+2025-08-15 21:46:14,369 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-08-15 21:46:14,370 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-08-15 21:46:14,426 [INFO] [Dummy-5] [root/event_listener.py:125]: Komorebi connected to named pipe: yasb-35f1704f-79de-11f0-8a22-80897690a29f
+2025-08-15 21:46:16,747 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:253]: CLI server received command: toggle-widget wallpapers --follow-focus
+2025-08-15 21:46:25,652 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:253]: CLI server received command: stop
+2025-08-15 21:46:25,653 [INFO] [Thread-1 (_run_server)] [root/controller.py:30]: Exiting Application from CLI...
+2025-08-15 21:46:25,754 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-08-15 21:46:25,754 [DEBUG] [Thread-1 (_run_server)] [cli_server/cli_server.py:206]: CLI server stopped
+2025-08-15 21:46:25,754 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:218]: Stopping worker thread...
+2025-08-15 21:46:25,770 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:201]: Exiting thread
+2025-08-15 21:46:25,771 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:75]: Closing
+2025-08-15 21:46:26,200 [INFO] [MainThread] [root/log.py:59]: YASB v1.7.9
+2025-08-15 21:46:26,201 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.2
+2025-08-15 21:46:26,201 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-08-15 21:46:26,345 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-08-15 21:46:26,569 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-08-15 21:46:26,708 [INFO] [MainThread] [root/bar_manager.py:74]: Starting KomorebiEventListener...
+2025-08-15 21:46:26,708 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\ACER\.config\yasb
+2025-08-15 21:46:26,725 [INFO] [Dummy-5] [root/event_listener.py:51]: Created named pipe yasb-3d53d0df-79de-11f0-b786-80897690a29f
+2025-08-15 21:46:26,765 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-08-15 21:46:26,766 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-08-15 21:46:26,810 [INFO] [Dummy-5] [root/event_listener.py:125]: Komorebi connected to named pipe: yasb-3d53d0df-79de-11f0-b786-80897690a29f
+2025-08-15 21:46:41,078 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of config change.
+2025-08-15 21:46:41,193 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-08-15 21:46:41,193 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-08-15 21:46:41,197 [INFO] [MainThread] [root/bar_manager.py:65]: Successfully loaded updated config and re-initialised all bars.
+2025-08-15 21:46:41,198 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:218]: Stopping worker thread...
+2025-08-15 21:46:41,209 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:201]: Exiting thread
+2025-08-15 21:46:41,209 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:75]: Closing
+2025-08-15 21:46:41,556 [INFO] [MainThread] [root/log.py:59]: YASB v1.7.9
+2025-08-15 21:46:41,557 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.2
+2025-08-15 21:46:41,557 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-08-15 21:46:41,689 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-08-15 21:46:41,906 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-08-15 21:46:42,046 [INFO] [MainThread] [root/bar_manager.py:74]: Starting KomorebiEventListener...
+2025-08-15 21:46:42,046 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\ACER\.config\yasb
+2025-08-15 21:46:42,047 [INFO] [Dummy-5] [root/event_listener.py:51]: Created named pipe yasb-46782088-79de-11f0-965a-80897690a29f
+2025-08-15 21:46:42,112 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-08-15 21:46:42,115 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-08-15 21:46:42,174 [INFO] [Dummy-5] [root/event_listener.py:125]: Komorebi connected to named pipe: yasb-46782088-79de-11f0-965a-80897690a29f
+2025-08-15 21:46:47,130 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:253]: CLI server received command: toggle-widget wallpapers --follow-focus
+2025-08-15 21:47:01,763 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:253]: CLI server received command: stop
+2025-08-15 21:47:01,763 [INFO] [Thread-1 (_run_server)] [root/controller.py:30]: Exiting Application from CLI...
+2025-08-15 21:47:01,876 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-08-15 21:47:01,876 [DEBUG] [Thread-1 (_run_server)] [cli_server/cli_server.py:206]: CLI server stopped
+2025-08-15 21:47:01,876 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:218]: Stopping worker thread...
+2025-08-15 21:47:01,892 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:201]: Exiting thread
+2025-08-15 21:47:01,893 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:75]: Closing
+2025-08-15 21:47:02,301 [INFO] [MainThread] [root/log.py:59]: YASB v1.7.9
+2025-08-15 21:47:02,302 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.2
+2025-08-15 21:47:02,302 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-08-15 21:47:02,442 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-08-15 21:47:02,654 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-08-15 21:47:02,790 [INFO] [MainThread] [root/bar_manager.py:74]: Starting KomorebiEventListener...
+2025-08-15 21:47:02,791 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\ACER\.config\yasb
+2025-08-15 21:47:02,792 [INFO] [Dummy-5] [root/event_listener.py:51]: Created named pipe yasb-52d56402-79de-11f0-a064-80897690a29f
+2025-08-15 21:47:02,838 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-08-15 21:47:02,838 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-08-15 21:47:02,887 [INFO] [Dummy-5] [root/event_listener.py:125]: Komorebi connected to named pipe: yasb-52d56402-79de-11f0-a064-80897690a29f
+2025-08-15 21:47:26,917 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of config change.
+2025-08-15 21:47:27,032 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-08-15 21:47:27,032 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-08-15 21:47:27,037 [INFO] [MainThread] [root/bar_manager.py:65]: Successfully loaded updated config and re-initialised all bars.
+2025-08-15 21:47:27,037 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:218]: Stopping worker thread...
+2025-08-15 21:47:27,047 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:201]: Exiting thread
+2025-08-15 21:47:27,048 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:75]: Closing
+2025-08-15 21:47:27,401 [INFO] [MainThread] [root/log.py:59]: YASB v1.7.9
+2025-08-15 21:47:27,401 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.2
+2025-08-15 21:47:27,402 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-08-15 21:47:27,535 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-08-15 21:47:27,757 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-08-15 21:47:27,890 [INFO] [MainThread] [root/bar_manager.py:74]: Starting KomorebiEventListener...
+2025-08-15 21:47:27,892 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\ACER\.config\yasb
+2025-08-15 21:47:27,915 [INFO] [Dummy-5] [root/event_listener.py:51]: Created named pipe yasb-61cb7278-79de-11f0-9d19-80897690a29f
+2025-08-15 21:47:27,965 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-08-15 21:47:27,967 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-08-15 21:47:28,022 [INFO] [Dummy-5] [root/event_listener.py:125]: Komorebi connected to named pipe: yasb-61cb7278-79de-11f0-9d19-80897690a29f
+2025-08-15 21:47:38,597 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:253]: CLI server received command: toggle-widget wallpapers --follow-focus
+2025-08-15 21:47:50,191 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:253]: CLI server received command: stop
+2025-08-15 21:47:50,192 [INFO] [Thread-1 (_run_server)] [root/controller.py:30]: Exiting Application from CLI...
+2025-08-15 21:47:50,303 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-08-15 21:47:50,303 [DEBUG] [Thread-1 (_run_server)] [cli_server/cli_server.py:206]: CLI server stopped
+2025-08-15 21:47:50,303 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:218]: Stopping worker thread...
+2025-08-15 21:47:50,318 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:201]: Exiting thread
+2025-08-15 21:47:50,319 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:75]: Closing
+2025-08-15 21:47:50,723 [INFO] [MainThread] [root/log.py:59]: YASB v1.7.9
+2025-08-15 21:47:50,723 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.2
+2025-08-15 21:47:50,724 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-08-15 21:47:50,866 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-08-15 21:47:51,086 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-08-15 21:47:51,208 [INFO] [MainThread] [root/bar_manager.py:74]: Starting KomorebiEventListener...
+2025-08-15 21:47:51,209 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\ACER\.config\yasb
+2025-08-15 21:47:51,223 [INFO] [Dummy-5] [root/event_listener.py:51]: Created named pipe yasb-6fb193e9-79de-11f0-a5e5-80897690a29f
+2025-08-15 21:47:51,257 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-08-15 21:47:51,258 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-08-15 21:47:51,329 [INFO] [Dummy-5] [root/event_listener.py:125]: Komorebi connected to named pipe: yasb-6fb193e9-79de-11f0-a5e5-80897690a29f
+2025-08-15 21:48:19,667 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of config change.
+2025-08-15 21:48:19,768 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-08-15 21:48:19,768 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-08-15 21:48:19,774 [INFO] [MainThread] [root/bar_manager.py:65]: Successfully loaded updated config and re-initialised all bars.
+2025-08-15 21:48:19,774 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:218]: Stopping worker thread...
+2025-08-15 21:48:19,784 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:201]: Exiting thread
+2025-08-15 21:48:19,785 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:75]: Closing
+2025-08-15 21:48:20,129 [INFO] [MainThread] [root/log.py:59]: YASB v1.7.9
+2025-08-15 21:48:20,130 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.2
+2025-08-15 21:48:20,130 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-08-15 21:48:20,263 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-08-15 21:48:20,479 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-08-15 21:48:20,615 [INFO] [MainThread] [root/bar_manager.py:74]: Starting KomorebiEventListener...
+2025-08-15 21:48:20,616 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\ACER\.config\yasb
+2025-08-15 21:48:20,637 [INFO] [Dummy-5] [root/event_listener.py:51]: Created named pipe yasb-81388bd8-79de-11f0-b80c-80897690a29f
+2025-08-15 21:48:20,685 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-08-15 21:48:20,687 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-08-15 21:48:20,784 [INFO] [Dummy-5] [root/event_listener.py:125]: Komorebi connected to named pipe: yasb-81388bd8-79de-11f0-b80c-80897690a29f
+2025-08-15 21:48:41,664 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:253]: CLI server received command: toggle-widget wallpapers --follow-focus
+2025-08-15 21:48:51,158 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:253]: CLI server received command: stop
+2025-08-15 21:48:51,158 [INFO] [Thread-1 (_run_server)] [root/controller.py:30]: Exiting Application from CLI...
+2025-08-15 21:48:51,267 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-08-15 21:48:51,267 [DEBUG] [Thread-1 (_run_server)] [cli_server/cli_server.py:206]: CLI server stopped
+2025-08-15 21:48:51,267 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:218]: Stopping worker thread...
+2025-08-15 21:48:51,283 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:201]: Exiting thread
+2025-08-15 21:48:51,283 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:75]: Closing
+2025-08-15 21:48:51,691 [INFO] [MainThread] [root/log.py:59]: YASB v1.7.9
+2025-08-15 21:48:51,691 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.2
+2025-08-15 21:48:51,692 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-08-15 21:48:51,833 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-08-15 21:48:52,046 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-08-15 21:48:52,180 [INFO] [MainThread] [root/bar_manager.py:74]: Starting KomorebiEventListener...
+2025-08-15 21:48:52,180 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\ACER\.config\yasb
+2025-08-15 21:48:52,181 [INFO] [Dummy-5] [root/event_listener.py:51]: Created named pipe yasb-94090764-79de-11f0-9202-80897690a29f
+2025-08-15 21:48:52,231 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-08-15 21:48:52,232 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-08-15 21:48:52,281 [INFO] [Dummy-5] [root/event_listener.py:125]: Komorebi connected to named pipe: yasb-94090764-79de-11f0-9202-80897690a29f
+2025-08-15 21:49:07,616 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:253]: CLI server received command: toggle-widget wallpapers --follow-focus
+2025-08-15 21:49:16,760 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:253]: CLI server received command: stop
+2025-08-15 21:49:16,760 [INFO] [Thread-1 (_run_server)] [root/controller.py:30]: Exiting Application from CLI...
+2025-08-15 21:49:16,864 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-08-15 21:49:16,864 [DEBUG] [Thread-1 (_run_server)] [cli_server/cli_server.py:206]: CLI server stopped
+2025-08-15 21:49:16,864 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:218]: Stopping worker thread...
+2025-08-15 21:49:16,880 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:201]: Exiting thread
+2025-08-15 21:49:16,881 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:75]: Closing
+2025-08-15 21:49:17,292 [INFO] [MainThread] [root/log.py:59]: YASB v1.7.9
+2025-08-15 21:49:17,293 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.2
+2025-08-15 21:49:17,293 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-08-15 21:49:17,440 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-08-15 21:49:17,656 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-08-15 21:49:17,789 [INFO] [MainThread] [root/bar_manager.py:74]: Starting KomorebiEventListener...
+2025-08-15 21:49:17,790 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\ACER\.config\yasb
+2025-08-15 21:49:17,792 [INFO] [Dummy-5] [root/event_listener.py:51]: Created named pipe yasb-a34cd77f-79de-11f0-817e-80897690a29f
+2025-08-15 21:49:17,843 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-08-15 21:49:17,844 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-08-15 21:49:17,892 [INFO] [Dummy-5] [root/event_listener.py:125]: Komorebi connected to named pipe: yasb-a34cd77f-79de-11f0-817e-80897690a29f
+2025-08-15 21:49:22,261 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:253]: CLI server received command: toggle-widget wallpapers --follow-focus
+2025-08-15 21:49:35,461 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:253]: CLI server received command: stop
+2025-08-15 21:49:35,461 [INFO] [Thread-1 (_run_server)] [root/controller.py:30]: Exiting Application from CLI...
+2025-08-15 21:49:35,564 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-08-15 21:49:35,564 [DEBUG] [Thread-1 (_run_server)] [cli_server/cli_server.py:206]: CLI server stopped
+2025-08-15 21:49:35,564 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:218]: Stopping worker thread...
+2025-08-15 21:49:35,580 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:201]: Exiting thread
+2025-08-15 21:49:35,581 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:75]: Closing
+2025-08-15 21:49:35,991 [INFO] [MainThread] [root/log.py:59]: YASB v1.7.9
+2025-08-15 21:49:35,991 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.2
+2025-08-15 21:49:35,991 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-08-15 21:49:36,123 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-08-15 21:49:36,337 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-08-15 21:49:36,476 [INFO] [MainThread] [root/bar_manager.py:74]: Starting KomorebiEventListener...
+2025-08-15 21:49:36,476 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\ACER\.config\yasb
+2025-08-15 21:49:36,493 [INFO] [Dummy-5] [root/event_listener.py:51]: Created named pipe yasb-ae70188e-79de-11f0-888d-80897690a29f
+2025-08-15 21:49:36,527 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-08-15 21:49:36,527 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-08-15 21:49:36,585 [INFO] [Dummy-5] [root/event_listener.py:125]: Komorebi connected to named pipe: yasb-ae70188e-79de-11f0-888d-80897690a29f
+2025-08-15 21:51:12,441 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of config change.
+2025-08-15 21:51:12,541 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-08-15 21:51:12,541 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-08-15 21:51:12,547 [INFO] [MainThread] [root/bar_manager.py:65]: Successfully loaded updated config and re-initialised all bars.
+2025-08-15 21:51:12,548 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:218]: Stopping worker thread...
+2025-08-15 21:51:12,557 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:201]: Exiting thread
+2025-08-15 21:51:12,558 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:75]: Closing
+2025-08-15 21:51:14,496 [INFO] [MainThread] [root/log.py:59]: YASB v1.7.9
+2025-08-15 21:51:14,496 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.2
+2025-08-15 21:51:14,497 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-08-15 21:51:15,061 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-08-15 21:51:16,363 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-08-15 21:51:16,664 [INFO] [MainThread] [root/bar_manager.py:74]: Starting KomorebiEventListener...
+2025-08-15 21:51:16,666 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\ACER\.config\yasb
+2025-08-15 21:51:16,690 [INFO] [Dummy-5] [root/event_listener.py:51]: Created named pipe yasb-ea279327-79de-11f0-9f01-80897690a29f
+2025-08-15 21:51:16,741 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-08-15 21:51:16,742 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-08-15 21:51:16,833 [INFO] [Dummy-5] [root/event_listener.py:125]: Komorebi connected to named pipe: yasb-ea279327-79de-11f0-9f01-80897690a29f
+2025-08-15 21:51:25,638 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of config change.
+2025-08-15 21:51:25,739 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-08-15 21:51:25,739 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-08-15 21:51:25,744 [INFO] [MainThread] [root/bar_manager.py:65]: Successfully loaded updated config and re-initialised all bars.
+2025-08-15 21:51:25,745 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:218]: Stopping worker thread...
+2025-08-15 21:51:25,754 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:201]: Exiting thread
+2025-08-15 21:51:25,755 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:75]: Closing
+2025-08-15 21:51:26,105 [INFO] [MainThread] [root/log.py:59]: YASB v1.7.9
+2025-08-15 21:51:26,105 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.2
+2025-08-15 21:51:26,106 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-08-15 21:51:26,242 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-08-15 21:51:26,457 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-08-15 21:51:26,590 [INFO] [MainThread] [root/bar_manager.py:74]: Starting KomorebiEventListener...
+2025-08-15 21:51:26,591 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\ACER\.config\yasb
+2025-08-15 21:51:26,616 [INFO] [Dummy-5] [root/event_listener.py:51]: Created named pipe yasb-f01248a0-79de-11f0-a77c-80897690a29f
+2025-08-15 21:51:26,666 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-08-15 21:51:26,668 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-08-15 21:51:26,762 [INFO] [Dummy-5] [root/event_listener.py:125]: Komorebi connected to named pipe: yasb-f01248a0-79de-11f0-a77c-80897690a29f
+2025-08-15 21:51:33,685 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:253]: CLI server received command: toggle-widget wallpapers --follow-focus
+2025-08-15 21:51:43,033 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:253]: CLI server received command: stop
+2025-08-15 21:51:43,033 [INFO] [Thread-1 (_run_server)] [root/controller.py:30]: Exiting Application from CLI...
+2025-08-15 21:51:43,139 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-08-15 21:51:43,139 [DEBUG] [Thread-1 (_run_server)] [cli_server/cli_server.py:206]: CLI server stopped
+2025-08-15 21:51:43,139 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:218]: Stopping worker thread...
+2025-08-15 21:51:43,154 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:201]: Exiting thread
+2025-08-15 21:51:43,155 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:75]: Closing
+2025-08-15 21:51:43,579 [INFO] [MainThread] [root/log.py:59]: YASB v1.7.9
+2025-08-15 21:51:43,579 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.2
+2025-08-15 21:51:43,580 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-08-15 21:51:43,732 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-08-15 21:51:43,957 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-08-15 21:51:44,095 [INFO] [MainThread] [root/bar_manager.py:74]: Starting KomorebiEventListener...
+2025-08-15 21:51:44,096 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\ACER\.config\yasb
+2025-08-15 21:51:44,098 [INFO] [Dummy-5] [root/event_listener.py:51]: Created named pipe yasb-fa81650a-79de-11f0-b945-80897690a29f
+2025-08-15 21:51:44,150 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-08-15 21:51:44,151 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-08-15 21:51:44,201 [INFO] [Dummy-5] [root/event_listener.py:125]: Komorebi connected to named pipe: yasb-fa81650a-79de-11f0-b945-80897690a29f
+2025-08-15 21:52:04,437 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of config change.
+2025-08-15 21:52:04,538 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-08-15 21:52:04,538 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-08-15 21:52:04,543 [INFO] [MainThread] [root/bar_manager.py:65]: Successfully loaded updated config and re-initialised all bars.
+2025-08-15 21:52:04,543 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:218]: Stopping worker thread...
+2025-08-15 21:52:04,553 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:201]: Exiting thread
+2025-08-15 21:52:04,554 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:75]: Closing
+2025-08-15 21:52:04,919 [INFO] [MainThread] [root/log.py:59]: YASB v1.7.9
+2025-08-15 21:52:04,921 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.2
+2025-08-15 21:52:04,921 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-08-15 21:52:05,060 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-08-15 21:52:05,280 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-08-15 21:52:05,419 [INFO] [MainThread] [root/bar_manager.py:74]: Starting KomorebiEventListener...
+2025-08-15 21:52:05,420 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\ACER\.config\yasb
+2025-08-15 21:52:05,445 [INFO] [Dummy-5] [root/event_listener.py:51]: Created named pipe yasb-0736f53d-79df-11f0-894c-80897690a29f
+2025-08-15 21:52:05,503 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-08-15 21:52:05,503 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-08-15 21:52:05,591 [INFO] [Dummy-5] [root/event_listener.py:125]: Komorebi connected to named pipe: yasb-0736f53d-79df-11f0-894c-80897690a29f
+2025-08-15 21:52:20,746 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of config change.
+2025-08-15 21:52:20,855 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-08-15 21:52:20,855 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-08-15 21:52:20,861 [INFO] [MainThread] [root/bar_manager.py:65]: Successfully loaded updated config and re-initialised all bars.
+2025-08-15 21:52:20,861 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:218]: Stopping worker thread...
+2025-08-15 21:52:20,871 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:201]: Exiting thread
+2025-08-15 21:52:20,872 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:75]: Closing
+2025-08-15 21:52:21,231 [INFO] [MainThread] [root/log.py:59]: YASB v1.7.9
+2025-08-15 21:52:21,232 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.2
+2025-08-15 21:52:21,232 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-08-15 21:52:21,376 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-08-15 21:52:21,597 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-08-15 21:52:21,737 [INFO] [MainThread] [root/bar_manager.py:74]: Starting KomorebiEventListener...
+2025-08-15 21:52:21,739 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\ACER\.config\yasb
+2025-08-15 21:52:21,765 [INFO] [Dummy-5] [root/event_listener.py:51]: Created named pipe yasb-10f0f1dc-79df-11f0-8b8f-80897690a29f
+2025-08-15 21:52:21,819 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-08-15 21:52:21,821 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-08-15 21:52:21,881 [INFO] [Dummy-5] [root/event_listener.py:125]: Komorebi connected to named pipe: yasb-10f0f1dc-79df-11f0-8b8f-80897690a29f
+2025-08-15 21:58:56,699 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:253]: CLI server received command: toggle-widget launchpad --follow-focus
+2025-08-15 21:58:57,664 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:253]: CLI server received command: toggle-widget launchpad --follow-focus
+2025-08-15 21:58:58,129 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:253]: CLI server received command: toggle-widget wallpapers --follow-focus
+2025-08-15 21:58:58,875 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:253]: CLI server received command: toggle-widget wallpapers --follow-focus
+2025-08-15 21:58:59,323 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:253]: CLI server received command: toggle-widget powermenu --follow-focus
+2025-08-15 21:59:00,037 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:253]: CLI server received command: toggle-widget powermenu --follow-focus
+2025-08-15 21:59:00,787 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:253]: CLI server received command: toggle-widget launchpad --follow-focus
+2025-08-15 21:59:01,353 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:253]: CLI server received command: toggle-widget launchpad --follow-focus
+2025-08-15 21:59:01,775 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:253]: CLI server received command: toggle-widget powermenu --follow-focus
+2025-08-15 21:59:02,344 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:253]: CLI server received command: toggle-widget powermenu --follow-focus
+2025-08-15 21:59:03,349 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:253]: CLI server received command: toggle-widget powermenu --follow-focus
+2025-08-15 21:59:04,415 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:253]: CLI server received command: toggle-widget powermenu --follow-focus
+2025-08-15 21:59:07,696 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:253]: CLI server received command: toggle-widget wallpapers --follow-focus
+2025-08-15 21:59:21,556 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:253]: CLI server received command: stop
+2025-08-15 21:59:21,556 [INFO] [Thread-1 (_run_server)] [root/controller.py:30]: Exiting Application from CLI...
+2025-08-15 21:59:21,660 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-08-15 21:59:21,660 [DEBUG] [Thread-1 (_run_server)] [cli_server/cli_server.py:206]: CLI server stopped
+2025-08-15 21:59:21,660 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:218]: Stopping worker thread...
+2025-08-15 21:59:21,675 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:201]: Exiting thread
+2025-08-15 21:59:21,675 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:75]: Closing
+2025-08-15 21:59:22,114 [INFO] [MainThread] [root/log.py:59]: YASB v1.7.9
+2025-08-15 21:59:22,114 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.2
+2025-08-15 21:59:22,114 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-08-15 21:59:22,269 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-08-15 21:59:22,482 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-08-15 21:59:22,610 [INFO] [MainThread] [root/bar_manager.py:74]: Starting KomorebiEventListener...
+2025-08-15 21:59:22,611 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\ACER\.config\yasb
+2025-08-15 21:59:22,628 [INFO] [Dummy-5] [root/event_listener.py:51]: Created named pipe yasb-0bcd21fd-79e0-11f0-af6e-80897690a29f
+2025-08-15 21:59:22,663 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-08-15 21:59:22,664 [DEBUG] [Dummy-7] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-08-15 21:59:22,746 [INFO] [Dummy-5] [root/event_listener.py:125]: Komorebi connected to named pipe: yasb-0bcd21fd-79e0-11f0-af6e-80897690a29f
+2025-08-15 21:59:56,046 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:253]: CLI server received command: toggle-widget wallpapers --follow-focus
+2025-08-15 22:00:23,802 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:253]: CLI server received command: toggle-widget wallpapers --follow-focus
+2025-08-15 22:00:52,077 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:253]: CLI server received command: toggle-widget powermenu --follow-focus
+2025-08-15 22:00:56,839 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:253]: CLI server received command: toggle-widget powermenu --follow-focus
+2025-08-15 22:00:58,604 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:218]: Stopping worker thread...
+2025-08-15 22:00:58,614 [DEBUG] [Dummy-7] [qasync._windows._EventWorker/_windows.py:201]: Exiting thread
+2025-08-15 22:00:58,615 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:75]: Closing
+2025-08-16 10:36:44,364 [INFO] [MainThread] [root/log.py:59]: YASB v1.7.9
+2025-08-16 10:36:44,365 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.2
+2025-08-16 10:36:44,365 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-08-16 10:36:45,428 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-08-16 10:36:49,755 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-08-16 10:36:50,271 [INFO] [MainThread] [root/bar_manager.py:74]: Starting KomorebiEventListener...
+2025-08-16 10:36:50,273 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\ACER\.config\yasb
+2025-08-16 10:36:50,273 [INFO] [Dummy-5] [root/event_listener.py:51]: Created named pipe yasb-dcb7bffc-7a49-11f0-8d98-bc37d5d40200
+2025-08-16 10:36:50,379 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-08-16 10:36:50,381 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-08-16 10:37:00,581 [INFO] [Dummy-5] [root/event_listener.py:125]: Komorebi connected to named pipe: yasb-dcb7bffc-7a49-11f0-8d98-bc37d5d40200
+2025-08-16 10:38:35,035 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:253]: CLI server received command: toggle-widget launchpad --follow-focus
+2025-08-16 10:38:37,579 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:253]: CLI server received command: toggle-widget launchpad --follow-focus
+2025-08-16 10:38:54,379 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:253]: CLI server received command: toggle-widget launchpad --follow-focus
+2025-08-16 10:51:49,937 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:253]: CLI server received command: toggle-widget powermenu --follow-focus
+2025-08-16 15:47:36,631 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:253]: CLI server received command: toggle-widget powermenu --follow-focus
+2025-08-16 15:47:37,522 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:253]: CLI server received command: toggle-widget powermenu --follow-focus
+2025-08-16 15:47:37,989 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:253]: CLI server received command: toggle-widget launchpad --follow-focus
+2025-08-16 15:47:39,307 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:253]: CLI server received command: toggle-widget launchpad --follow-focus
+2025-08-16 15:47:39,896 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:253]: CLI server received command: toggle-widget powermenu --follow-focus
+2025-08-16 15:47:40,490 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:253]: CLI server received command: toggle-widget powermenu --follow-focus
+2025-08-16 15:47:40,886 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:253]: CLI server received command: toggle-widget launchpad --follow-focus
+2025-08-16 15:47:51,735 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:253]: CLI server received command: toggle-widget launchpad --follow-focus
+2025-08-16 15:47:54,003 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:253]: CLI server received command: toggle-widget launchpad --follow-focus
+2025-08-16 16:11:22,930 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:253]: CLI server received command: toggle-widget powermenu --follow-focus
+2025-08-16 16:11:23,715 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:253]: CLI server received command: toggle-widget powermenu --follow-focus
+2025-08-16 16:11:24,038 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:253]: CLI server received command: toggle-widget launchpad --follow-focus
+2025-08-16 16:11:37,303 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:253]: CLI server received command: toggle-widget launchpad --follow-focus
+2025-08-16 16:17:00,634 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:253]: CLI server received command: toggle-widget launchpad --follow-focus
+2025-08-16 16:17:09,178 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:253]: CLI server received command: toggle-widget launchpad --follow-focus
+2025-08-16 16:17:39,021 [INFO] [MainThread] [root/controller.py:30]: Exiting Application from tray...
+2025-08-16 16:17:39,133 [INFO] [MainThread] [cli_server/cli_server.py:112]: Log pipe server stopped
+2025-08-16 16:17:39,133 [DEBUG] [MainThread] [cli_server/cli_server.py:206]: CLI server stopped
+2025-08-16 16:17:39,134 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:218]: Stopping worker thread...
+2025-08-16 16:17:39,149 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:201]: Exiting thread
+2025-08-16 16:17:39,150 [DEBUG] [MainThread] [qasync._windows._IocpProactor/_windows.py:75]: Closing
+2025-08-16 16:17:39,212 [ERROR] [Dummy-5] [root/event_service.py:32]: Failed to emit signal <bound PYQT_SIGNAL k_signal_update of WorkspaceWidget object at 0x000001AC86366F30>. Removing link to KomorebiEvent.KomorebiUpdate.
+2025-08-16 16:17:39,212 [ERROR] [Dummy-5] [root/event_service.py:32]: Failed to emit signal <bound PYQT_SIGNAL k_signal_update of ActiveLayoutWidget object at 0x000001AC863A37F0>. Removing link to KomorebiEvent.KomorebiUpdate.
+2025-08-16 16:17:57,665 [INFO] [MainThread] [root/log.py:59]: YASB v1.7.9
+2025-08-16 16:17:57,665 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:212]: CLI server started v1.1.2
+2025-08-16 16:17:57,666 [INFO] [MainThread] [cli_server/cli_server.py:104]: Log pipe server started
+2025-08-16 16:17:58,447 [DEBUG] [MainThread] [tzlocal/win32.py:55]: Looking up time zone info from registry
+2025-08-16 16:18:01,693 [DEBUG] [MainThread] [comtypes/__init__.py:149]: CoInitializeEx(None, 2)
+2025-08-16 16:18:02,291 [INFO] [MainThread] [root/bar_manager.py:74]: Starting KomorebiEventListener...
+2025-08-16 16:18:02,291 [INFO] [MainThread] [root/watcher.py:54]: Created file watcher for path C:\Users\ACER\.config\yasb
+2025-08-16 16:18:02,328 [INFO] [Dummy-5] [root/event_listener.py:51]: Created named pipe yasb-86fe01e4-7a79-11f0-8b29-bc37d5d40200
+2025-08-16 16:18:02,395 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:213]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2025-08-16 16:18:02,397 [DEBUG] [Dummy-9] [qasync._windows._EventWorker/_windows.py:192]: Thread started
+2025-08-16 16:18:02,453 [INFO] [Dummy-5] [root/event_listener.py:125]: Komorebi connected to named pipe: yasb-86fe01e4-7a79-11f0-8b29-bc37d5d40200
+2025-08-16 17:27:54,388 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:253]: CLI server received command: toggle-widget launchpad --follow-focus
+2025-08-16 17:28:03,112 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:253]: CLI server received command: toggle-widget launchpad --follow-focus
+2025-08-16 17:50:16,973 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:253]: CLI server received command: toggle-widget powermenu --follow-focus
+2025-08-16 22:01:44,372 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:253]: CLI server received command: toggle-widget launchpad --follow-focus
+2025-08-16 22:02:12,395 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:253]: CLI server received command: toggle-widget launchpad --follow-focus
+2025-08-16 22:02:30,965 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:253]: CLI server received command: toggle-widget launchpad --follow-focus
+2025-08-16 22:02:41,338 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:253]: CLI server received command: toggle-widget launchpad --follow-focus
+2025-08-16 22:02:46,314 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:253]: CLI server received command: toggle-widget launchpad --follow-focus
+2025-08-16 22:05:13,447 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:253]: CLI server received command: toggle-widget launchpad --follow-focus
+2025-08-16 22:17:29,630 [INFO] [Thread-1 (_run_server)] [cli_server/cli_server.py:253]: CLI server received command: toggle-widget wallpapers --follow-focus
