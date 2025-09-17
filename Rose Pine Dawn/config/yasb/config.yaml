@@ -200,8 +200,8 @@ widgets:
     options:
       label: "\uf011"
       uptime: True
-      blur: False
-      blur_background: true
+      blur: false
+      blur_background: false
       animation_duration: 200
       button_row: 5
       buttons:
@@ -339,7 +339,7 @@ widgets:
       window:
         fullscreen: false
         width: 1000
-        height: 250
+        height: 240
         overlay_block: true
       window_style:
         enable_blur: true
