@@ -1,0 +1,373 @@
+[
+  {
+    "title": "Discord",
+    "path": "C:\\Users\\ACER\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Discord Inc\\Discord.lnk",
+    "icon": "C:\\Users\\ACER\\.config\\yasb\\launchpad\\icons\\discord_1754483450314.png",
+    "type": "app",
+    "id": 1754483450317
+  },
+  {
+    "title": "IK Product Manager",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\IK Product Manager.lnk",
+    "icon": "C:\\Users\\ACER\\.config\\yasb\\launchpad\\icons\\ik_product_manager_1754483771740.png",
+    "type": "app",
+    "id": 1754483771743
+  },
+  {
+    "title": "AmpliTube 5",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\IK Multimedia\\AmpliTube 5.lnk",
+    "icon": "C:\\Users\\ACER\\.config\\yasb\\launchpad\\icons\\amplitube_5_1754483723616.png",
+    "type": "app",
+    "id": 1754483723619
+  },
+  {
+    "title": "CubeSuite",
+    "path": "C:\\Users\\ACER\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\CubeSuite.lnk",
+    "icon": "C:\\Users\\ACER\\.config\\yasb\\launchpad\\icons\\cubesuite_1754483750162.png",
+    "type": "app",
+    "id": 1754483750164
+  },
+  {
+    "title": "HandBrake",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\HandBrake\\HandBrake.lnk",
+    "icon": "C:\\Users\\ACER\\.config\\yasb\\launchpad\\icons\\handbrake_1754483728798.png",
+    "type": "app",
+    "id": 1754483728800
+  },
+  {
+    "title": "Hayaemon",
+    "path": "C:\\Users\\ACER\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Hayaemon.lnk",
+    "icon": "C:\\Users\\ACER\\.config\\yasb\\launchpad\\icons\\hayaemon_1755784075065.png",
+    "type": "app",
+    "id": 1755784075067
+  },
+  {
+    "title": "Oracle VirtualBox",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Oracle VirtualBox\\Oracle VirtualBox.lnk",
+    "icon": "C:\\Users\\ACER\\.config\\yasb\\launchpad\\icons\\oracle_virtualbox_1756109965578.png",
+    "type": "app",
+    "id": 1756109965582
+  },
+  {
+    "title": "Terminal",
+    "path": "explorer.exe shell:AppsFolder\\Microsoft.WindowsTerminal_8wekyb3d8bbwe!App",
+    "icon": "C:\\Users\\ACER\\.config\\yasb\\launchpad\\icons\\terminal_1755433520225.png",
+    "type": "app",
+    "id": 1755433520225
+  },
+  {
+    "title": "OBS Studio (64bit)",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\OBS Studio\\OBS Studio (64bit).lnk",
+    "icon": "C:\\Users\\ACER\\.config\\yasb\\launchpad\\icons\\obs_studio_64bit_1754483734366.png",
+    "type": "app",
+    "id": 1754483734367
+  },
+  {
+    "title": "Floorp",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Floorp.lnk",
+    "icon": "C:\\Users\\ACER\\.config\\yasb\\launchpad\\icons\\floorp_1754484588997.png",
+    "type": "app",
+    "id": 1754484589000
+  },
+  {
+    "title": "Firefox",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Firefox.lnk",
+    "icon": "C:\\Users\\ACER\\.config\\yasb\\launchpad\\icons\\firefox_1754483719707.png",
+    "type": "app",
+    "id": 1754483719712
+  },
+  {
+    "title": "Zen",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Zen.lnk",
+    "icon": "C:\\Users\\ACER\\.config\\yasb\\launchpad\\icons\\zen_1754483633033.png",
+    "type": "app",
+    "id": 1754483633039
+  },
+  {
+    "title": "PowerPoint",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\PowerPoint.lnk",
+    "icon": "C:\\Users\\ACER\\.config\\yasb\\launchpad\\icons\\powerpoint_1754483843332.png",
+    "type": "app",
+    "id": 1754483843334
+  },
+  {
+    "title": "Excel",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Excel.lnk",
+    "icon": "C:\\Users\\ACER\\.config\\yasb\\launchpad\\icons\\excel_1754483838948.png",
+    "type": "app",
+    "id": 1754483838950
+  },
+  {
+    "title": "Word",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Word.lnk",
+    "icon": "C:\\Users\\ACER\\.config\\yasb\\launchpad\\icons\\word_1754483829739.png",
+    "type": "app",
+    "id": 1754483829741
+  },
+  {
+    "title": "Visual Studio Code",
+    "path": "C:\\Users\\ACER\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Visual Studio Code\\Visual Studio Code.lnk",
+    "icon": "C:\\Users\\ACER\\.config\\yasb\\launchpad\\icons\\visual_studio_code_1754483600459.png",
+    "type": "app",
+    "id": 1754483600461
+  },
+  {
+    "title": "ATK V HUB",
+    "path": "C:\\Users\\ACER\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\ATK V HUB.lnk",
+    "icon": "C:\\Users\\ACER\\.config\\yasb\\launchpad\\icons\\atk_v_hub_1754483761103.png",
+    "type": "app",
+    "id": 1754483761105
+  },
+  {
+    "title": "YouTube Music",
+    "path": "C:\\Users\\ACER\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\YouTube Music.lnk",
+    "icon": "C:\\Users\\ACER\\.config\\yasb\\launchpad\\icons\\youtube_music_1754483712863.png",
+    "type": "app",
+    "id": 1754483712866
+  },
+  {
+    "title": "Epic Games Launcher",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Epic Games Launcher.lnk",
+    "icon": "C:\\Users\\ACER\\.config\\yasb\\launchpad\\icons\\epic_games_launcher_1754484013608.png",
+    "type": "app",
+    "id": 1754484013609
+  },
+  {
+    "title": "Steam",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Steam\\Steam.lnk",
+    "icon": "C:\\Users\\ACER\\.config\\yasb\\launchpad\\icons\\steam_1757943259869.png",
+    "type": "app",
+    "id": 1754484005294
+  },
+  {
+    "title": "nightreign",
+    "path": "C:\\Users\\ACER\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\nightreign.lnk",
+    "icon": "C:\\Users\\ACER\\.config\\yasb\\launchpad\\icons\\nightreign_1754483956606.png",
+    "type": "app",
+    "id": 1754483956610
+  },
+  {
+    "title": "nrsc_launcher",
+    "path": "C:\\Users\\ACER\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\nrsc_launcher.lnk",
+    "icon": "C:\\Users\\ACER\\.config\\yasb\\launchpad\\icons\\nrsc_launcher_1754483961290.png",
+    "type": "app",
+    "id": 1754483961292
+  },
+  {
+    "title": "Dying Light The Beast",
+    "path": "C:\\Users\\ACER\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Dying Light The Beast.lnk",
+    "icon": "C:\\Users\\ACER\\.config\\yasb\\launchpad\\icons\\dying_light_the_beast_1758275552525.png",
+    "type": "app",
+    "id": 1758275552527
+  },
+  {
+    "title": "Dying light 2",
+    "path": "C:\\Users\\ACER\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Dying light 2.lnk",
+    "icon": "C:\\Users\\ACER\\.config\\yasb\\launchpad\\icons\\dying_light_2_1758673869610.png",
+    "type": "app",
+    "id": 1758673869612
+  },
+  {
+    "title": "Don't Starve Together",
+    "path": "C:\\Users\\ACER\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\dontstarve_steam_x64.lnk",
+    "icon": "C:\\Users\\ACER\\.config\\yasb\\launchpad\\icons\\dont_starve_together_1757141849961.png",
+    "type": "app",
+    "id": 1757141849963
+  },
+  {
+    "title": "AWayOut",
+    "path": "C:\\Users\\ACER\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\AWayOut.lnk",
+    "icon": "C:\\Users\\ACER\\.config\\yasb\\launchpad\\icons\\awayout_1755432341705.png",
+    "type": "app",
+    "id": 1755432341706
+  },
+  {
+    "title": "FSD",
+    "path": "C:\\Users\\ACER\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\FSD.lnk",
+    "icon": "C:\\Users\\ACER\\.config\\yasb\\launchpad\\icons\\fsd_1754484140214.png",
+    "type": "app",
+    "id": 1754484140218
+  },
+  {
+    "title": "EtG",
+    "path": "C:\\Users\\ACER\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\EtG.lnk",
+    "icon": "C:\\Users\\ACER\\.config\\yasb\\launchpad\\icons\\etg_1755432354493.png",
+    "type": "app",
+    "id": 1755432354494
+  },
+  {
+    "title": "Roblox Player",
+    "path": "C:\\Users\\ACER\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Roblox\\Roblox Player.lnk",
+    "icon": "C:\\Users\\ACER\\.config\\yasb\\launchpad\\icons\\roblox_player_1754917344893.png",
+    "type": "app",
+    "id": 1754917344896
+  },
+  {
+    "title": "Mirrors Edge Catalyst",
+    "path": "C:\\Users\\ACER\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\MirrorsEdgeCatalyst.lnk",
+    "icon": "C:\\Users\\ACER\\.config\\yasb\\launchpad\\icons\\mirrorsedgecatalyst_1758630650243.png",
+    "type": "app",
+    "id": 1758630650244
+  },
+  {
+    "title": "People Playground",
+    "path": "C:\\Users\\ACER\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\People Playground.lnk",
+    "icon": "C:\\Users\\ACER\\.config\\yasb\\launchpad\\icons\\people_playground_1754484159646.png",
+    "type": "app",
+    "id": 1754484159651
+  },
+  {
+    "title": "plutonium",
+    "path": "C:\\Users\\ACER\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\plutonium.lnk",
+    "icon": "C:\\Users\\ACER\\.config\\yasb\\launchpad\\icons\\plutonium_1754484153269.png",
+    "type": "app",
+    "id": 1754484153273
+  },
+  {
+    "title": "Legacy Launcher Stable",
+    "path": "C:\\Users\\ACER\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Legacy Launcher Stable.lnk",
+    "icon": "C:\\Users\\ACER\\.config\\yasb\\launchpad\\icons\\legacy_launcher_stable_1754483590929.png",
+    "type": "app",
+    "id": 1754483590933
+  },
+  {
+    "title": "Mullet Mad Jack",
+    "path": "C:\\Users\\ACER\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Mullet Mad Jack.lnk",
+    "icon": "C:\\Users\\ACER\\.config\\yasb\\launchpad\\icons\\mullet_mad_jack_1754483705959.png",
+    "type": "app",
+    "id": 1754483705961
+  },
+  {
+    "title": "Blazblue Entropy Effect",
+    "path": "C:\\Users\\ACER\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\BlazblueEntropyEffect.lnk",
+    "icon": "C:\\Users\\ACER\\.config\\yasb\\launchpad\\icons\\blazblueentropyeffect_1755938656661.png",
+    "type": "app",
+    "id": 1755938656665
+  },
+  {
+    "title": "Hotline Miami 2",
+    "path": "C:\\Users\\ACER\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\HotlineMiami2.lnk",
+    "icon": "C:\\Users\\ACER\\.config\\yasb\\launchpad\\icons\\hotlinemiami2_1755085894018.png",
+    "type": "app",
+    "id": 1755085894020
+  },
+  {
+    "title": "Rainchaser Demo",
+    "path": "explorer.exe shell:AppsFolder\\steam://rungameid/3169340",
+    "icon": "C:\\Users\\ACER\\.config\\yasb\\launchpad\\icons\\rainchaser_demo_1758370927413.ico",
+    "type": "app",
+    "id": 1758370927413
+  },
+  {
+    "title": "Neon White",
+    "path": "C:\\Users\\ACER\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Neon White.lnk",
+    "icon": "C:\\Users\\ACER\\.config\\yasb\\launchpad\\icons\\neon_white_1754483666912.png",
+    "type": "app",
+    "id": 1754483666914
+  },
+  {
+    "title": "AI-LIMIT",
+    "path": "C:\\Users\\ACER\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\AI-LIMIT.lnk",
+    "icon": "C:\\Users\\ACER\\.config\\yasb\\launchpad\\icons\\ai-limit_1755084320271.png",
+    "type": "app",
+    "id": 1755084320274
+  },
+  {
+    "title": "ZZMI Quick Start",
+    "path": "C:\\Users\\ACER\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\ZZMI Quick Start.lnk",
+    "icon": "C:\\Users\\ACER\\.config\\yasb\\launchpad\\icons\\zzmi_quick_start_1757513664056.png",
+    "type": "app",
+    "id": 1757513664058
+  },
+  {
+    "title": "Zenless Zone Zero",
+    "path": "C:\\Users\\ACER\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\HoYoPlay\\Zenless Zone Zero.lnk",
+    "icon": "C:\\Users\\ACER\\.config\\yasb\\launchpad\\icons\\zenless_zone_zero_1754483623868.png",
+    "type": "app",
+    "id": 1754483623870
+  },
+  {
+    "title": "Reverse Collapse",
+    "path": "C:\\Users\\ACER\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\ReverseCollapse.lnk",
+    "icon": "C:\\Users\\ACER\\.config\\yasb\\launchpad\\icons\\reversecollapse_1754484247853.png",
+    "type": "app",
+    "id": 1754484247855
+  },
+  {
+    "title": "Snezhinka",
+    "path": "C:\\Users\\ACER\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Snezhinka.lnk",
+    "icon": "C:\\Users\\ACER\\.config\\yasb\\launchpad\\icons\\snezhinka_1754483990548.png",
+    "type": "app",
+    "id": 1754483990550
+  },
+  {
+    "title": "DolocTown",
+    "path": "C:\\Users\\ACER\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\DolocTown.lnk",
+    "icon": "C:\\Users\\ACER\\.config\\yasb\\launchpad\\icons\\doloctown_1754484194290.png",
+    "type": "app",
+    "id": 1754484194291
+  },
+  {
+    "title": "osu!",
+    "path": "C:\\Users\\ACER\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\osu!.lnk",
+    "icon": "C:\\Users\\ACER\\.config\\yasb\\launchpad\\icons\\osu_1754483651994.png",
+    "type": "app",
+    "id": 1754483651995
+  },
+  {
+    "title": "Doki Doki Literature Club",
+    "path": "explorer.exe shell:AppsFolder\\steam://rungameid/698780",
+    "icon": "C:\\Users\\ACER\\.config\\yasb\\launchpad\\icons\\doki_doki_literature_club_1758370874709.ico",
+    "type": "app",
+    "id": 1758370874714
+  },
+  {
+    "title": "Windose",
+    "path": "C:\\Users\\ACER\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Windose.lnk",
+    "icon": "C:\\Users\\ACER\\.config\\yasb\\launchpad\\icons\\windose_1754483658226.png",
+    "type": "app",
+    "id": 1754483658227
+  },
+  {
+    "title": "Neptunia ReBirth 1",
+    "path": "C:\\Users\\ACER\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\NeptuniaReBirth1.lnk",
+    "icon": "C:\\Users\\ACER\\.config\\yasb\\launchpad\\icons\\neptuniarebirth1_1754483671082.png",
+    "type": "app",
+    "id": 1754483671084
+  },
+  {
+    "title": "Neptunia ReBirth 2",
+    "path": "C:\\Users\\ACER\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\NeptuniaReBirth2.lnk",
+    "icon": "C:\\Users\\ACER\\.config\\yasb\\launchpad\\icons\\neptuniarebirth2_1754483674785.png",
+    "type": "app",
+    "id": 1754483674788
+  },
+  {
+    "title": "Neptunia ReBirth 3",
+    "path": "C:\\Users\\ACER\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\NeptuniaReBirth3.lnk",
+    "icon": "C:\\Users\\ACER\\.config\\yasb\\launchpad\\icons\\neptuniarebirth3_1754483678893.png",
+    "type": "app",
+    "id": 1754483678895
+  },
+  {
+    "title": "CLANNAD",
+    "path": "C:\\Users\\ACER\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\CLANNAD.lnk",
+    "icon": "C:\\Users\\ACER\\.config\\yasb\\launchpad\\icons\\clannad_1754483574404.png",
+    "type": "app",
+    "id": 1754483574407
+  },
+  {
+    "title": "MOTORSLICE Demo",
+    "path": "explorer.exe shell:AppsFolder\\steam://rungameid/3910170",
+    "icon": "C:\\Users\\ACER\\.config\\yasb\\launchpad\\icons\\motorslice_demo_1758633026826.ico",
+    "type": "app",
+    "id": 1758633026827
+  },
+  {
+    "title": "Miru",
+    "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Miru.lnk",
+    "icon": "C:\\Users\\ACER\\.config\\yasb\\launchpad\\icons\\miru_1754484387806.png",
+    "type": "app",
+    "id": 1754484387807
+  }
+]
