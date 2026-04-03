@@ -1,0 +1,930 @@
+2026-03-18 23:32:49,379 [DEBUG] [Dummy-36] [root/icon_resolver.py:117]: URL icon resolve failed for C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Terraria [GOG.com]\Documents\Support.url: File contains no section headers.
+file: 'C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Terraria [GOG.com]\\Documents\\Support.url', line: 1
+'\ufeff[InternetShortcut]\n'
+2026-03-18 23:35:02,997 [INFO] [MainThread] [root/controller.py:37]: Exiting Application...
+2026-03-18 23:35:03,107 [INFO] [MainThread] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-03-18 23:35:03,107 [DEBUG] [MainThread] [cli_server/cli_server.py:209]: CLI server stopped
+2026-03-18 23:35:03,206 [INFO] [MainThread] [root/bar_manager.py:96]: Stopping HotkeyListener...
+2026-03-18 23:35:03,207 [INFO] [MainThread] [root/bar_manager.py:104]: Stopping KomorebiEventListener...
+2026-03-18 23:35:03,208 [INFO] [MainThread] [core.utils.widgets.taskbar.window_manager/window_manager.py:218]: TaskbarWindowManager stopped
+2026-03-18 23:35:03,219 [INFO] [Dummy-8] [root/event_listener.py:92]: Attempting to reconnect to Komorebi...
+2026-03-19 08:42:12,767 [INFO] [MainThread] [root/log.py:95]: YASB v1.9.0
+2026-03-19 08:42:12,768 [INFO] [CLIPipeServer] [cli_server/cli_server.py:215]: CLI server started v1.1.6
+2026-03-19 08:42:12,769 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-03-19 08:42:12,973 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2026-03-19 08:42:12,976 [DEBUG] [Dummy-3] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2026-03-19 08:42:14,387 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-03-19 08:42:16,169 [INFO] [MainThread] [core.utils.widgets.taskbar.window_manager/window_manager.py:191]: TaskbarWindowManager is starting...
+2026-03-19 08:42:16,195 [INFO] [MainThread] [root/bar_manager.py:210]: Starting HotkeyListener...
+2026-03-19 08:42:16,196 [INFO] [MainThread] [root/bar_manager.py:88]: Starting KomorebiEventListener...
+2026-03-19 08:42:16,198 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\acer\.config\yasb
+2026-03-19 08:42:16,198 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\acer\.cache\wal
+2026-03-19 08:42:16,198 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-03-19 08:42:16,204 [INFO] [Dummy-11] [root/event_listener.py:51]: Created named pipe yasb-7a435afd-232c-11f1-b1e3-eeb4551a1380
+2026-03-19 08:42:16,208 [DEBUG] [Dummy-12] [root/hotkeys.py:199]: Registered hotkey ctrl+alt+d
+2026-03-19 08:42:16,208 [DEBUG] [Dummy-12] [root/hotkeys.py:199]: Registered hotkey ctrl+alt+w
+2026-03-19 08:42:16,208 [WARNING] [Dummy-12] [root/hotkeys.py:201]: Failed to register hotkey win+q - it may be in use by another application.
+2026-03-19 08:42:16,208 [DEBUG] [Dummy-12] [root/hotkeys.py:199]: Registered hotkey alt+space
+2026-03-19 08:42:16,999 [INFO] [MainThread] [root/update_service.py:429]: Background update checker started
+2026-03-19 08:42:25,697 [DEBUG] [Dummy-17] [root/icon_resolver.py:117]: URL icon resolve failed for C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Terraria [GOG.com]\Documents\Support.url: File contains no section headers.
+file: 'C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Terraria [GOG.com]\\Documents\\Support.url', line: 1
+'\ufeff[InternetShortcut]\n'
+2026-03-19 08:42:27,194 [INFO] [Dummy-11] [root/event_listener.py:125]: Komorebi connected to named pipe: yasb-7a435afd-232c-11f1-b1e3-eeb4551a1380
+2026-03-19 08:42:51,426 [DEBUG] [Thread-8] [root/watcher.py:97]: Imported stylesheet modified: c:\users\acer\.cache\wal\colors.css
+2026-03-19 15:59:27,195 [INFO] [MainThread] [root/controller.py:37]: Exiting Application...
+2026-03-19 15:59:27,309 [INFO] [MainThread] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-03-19 15:59:27,309 [DEBUG] [MainThread] [cli_server/cli_server.py:209]: CLI server stopped
+2026-03-19 15:59:29,335 [INFO] [MainThread] [root/bar_manager.py:96]: Stopping HotkeyListener...
+2026-03-19 15:59:29,336 [INFO] [MainThread] [root/bar_manager.py:104]: Stopping KomorebiEventListener...
+2026-03-19 15:59:29,336 [INFO] [MainThread] [core.utils.widgets.taskbar.window_manager/window_manager.py:218]: TaskbarWindowManager stopped
+2026-03-19 15:59:29,344 [INFO] [Dummy-11] [root/event_listener.py:92]: Attempting to reconnect to Komorebi...
+2026-03-19 20:19:23,420 [INFO] [MainThread] [root/log.py:95]: YASB v1.9.0
+2026-03-19 20:19:23,421 [INFO] [CLIPipeServer] [cli_server/cli_server.py:215]: CLI server started v1.1.6
+2026-03-19 20:19:23,421 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-03-19 20:19:23,564 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2026-03-19 20:19:23,567 [DEBUG] [Dummy-3] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2026-03-19 20:19:24,508 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-03-19 20:19:25,819 [INFO] [MainThread] [core.utils.widgets.taskbar.window_manager/window_manager.py:191]: TaskbarWindowManager is starting...
+2026-03-19 20:19:25,824 [INFO] [MainThread] [root/bar_manager.py:210]: Starting HotkeyListener...
+2026-03-19 20:19:25,824 [INFO] [MainThread] [root/bar_manager.py:88]: Starting KomorebiEventListener...
+2026-03-19 20:19:25,826 [INFO] [Dummy-9] [root/event_listener.py:51]: Created named pipe yasb-deaa2391-238d-11f1-834f-f00c780f667e
+2026-03-19 20:19:25,826 [DEBUG] [Dummy-11] [root/hotkeys.py:199]: Registered hotkey ctrl+alt+d
+2026-03-19 20:19:25,826 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\acer\.config\yasb
+2026-03-19 20:19:25,827 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\acer\.cache\wal
+2026-03-19 20:19:25,827 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-03-19 20:19:25,826 [DEBUG] [Dummy-11] [root/hotkeys.py:199]: Registered hotkey ctrl+alt+w
+2026-03-19 20:19:25,827 [WARNING] [Dummy-11] [root/hotkeys.py:201]: Failed to register hotkey win+q - it may be in use by another application.
+2026-03-19 20:19:25,827 [DEBUG] [Dummy-11] [root/hotkeys.py:199]: Registered hotkey alt+space
+2026-03-19 20:19:26,239 [INFO] [MainThread] [root/update_service.py:429]: Background update checker started
+2026-03-19 20:19:31,534 [INFO] [Dummy-9] [root/event_listener.py:125]: Komorebi connected to named pipe: yasb-deaa2391-238d-11f1-834f-f00c780f667e
+2026-03-19 20:19:36,823 [DEBUG] [Dummy-19] [root/icon_resolver.py:117]: URL icon resolve failed for C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Terraria [GOG.com]\Documents\Support.url: File contains no section headers.
+file: 'C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Terraria [GOG.com]\\Documents\\Support.url', line: 1
+'\ufeff[InternetShortcut]\n'
+2026-03-19 20:21:25,153 [DEBUG] [Thread-8] [root/watcher.py:97]: Imported stylesheet modified: c:\users\acer\.cache\wal\colors.css
+2026-03-19 20:23:14,225 [DEBUG] [Thread-8] [root/watcher.py:97]: Imported stylesheet modified: c:\users\acer\.cache\wal\colors.css
+2026-03-19 20:23:28,713 [DEBUG] [Thread-8] [root/watcher.py:97]: Imported stylesheet modified: c:\users\acer\.cache\wal\colors.css
+2026-03-19 21:09:13,272 [DEBUG] [Thread-8] [root/watcher.py:97]: Imported stylesheet modified: c:\users\acer\.cache\wal\colors.css
+2026-03-19 21:09:45,743 [DEBUG] [Thread-8] [root/watcher.py:97]: Imported stylesheet modified: c:\users\acer\.cache\wal\colors.css
+2026-03-19 21:10:37,962 [DEBUG] [Thread-8] [root/watcher.py:97]: Imported stylesheet modified: c:\users\acer\.cache\wal\colors.css
+2026-03-19 21:10:52,194 [DEBUG] [Thread-8] [root/watcher.py:97]: Imported stylesheet modified: c:\users\acer\.cache\wal\colors.css
+2026-03-19 23:45:14,852 [INFO] [MainThread] [root/controller.py:37]: Exiting Application...
+2026-03-19 23:45:14,962 [INFO] [MainThread] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-03-19 23:45:14,963 [DEBUG] [MainThread] [cli_server/cli_server.py:209]: CLI server stopped
+2026-03-19 23:45:15,063 [INFO] [MainThread] [root/bar_manager.py:96]: Stopping HotkeyListener...
+2026-03-19 23:45:15,065 [INFO] [MainThread] [root/bar_manager.py:104]: Stopping KomorebiEventListener...
+2026-03-19 23:45:15,067 [INFO] [MainThread] [core.utils.widgets.taskbar.window_manager/window_manager.py:218]: TaskbarWindowManager stopped
+2026-03-19 23:45:15,115 [INFO] [Dummy-9] [root/event_listener.py:92]: Attempting to reconnect to Komorebi...
+2026-03-20 13:10:38,057 [INFO] [MainThread] [root/log.py:95]: YASB v1.9.0
+2026-03-20 13:10:38,058 [INFO] [CLIPipeServer] [cli_server/cli_server.py:215]: CLI server started v1.1.6
+2026-03-20 13:10:38,058 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-03-20 13:10:38,244 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2026-03-20 13:10:38,247 [DEBUG] [Dummy-3] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2026-03-20 13:10:39,343 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-03-20 13:10:40,888 [INFO] [MainThread] [core.utils.widgets.taskbar.window_manager/window_manager.py:191]: TaskbarWindowManager is starting...
+2026-03-20 13:10:40,894 [INFO] [MainThread] [root/bar_manager.py:210]: Starting HotkeyListener...
+2026-03-20 13:10:40,894 [INFO] [MainThread] [root/bar_manager.py:88]: Starting KomorebiEventListener...
+2026-03-20 13:10:40,895 [INFO] [Dummy-8] [root/event_listener.py:51]: Created named pipe yasb-23d312d0-241b-11f1-92d1-8f92e9272a56
+2026-03-20 13:10:40,896 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\acer\.config\yasb
+2026-03-20 13:10:40,897 [DEBUG] [Dummy-11] [root/hotkeys.py:199]: Registered hotkey ctrl+alt+d
+2026-03-20 13:10:40,897 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\acer\.cache\wal
+2026-03-20 13:10:40,897 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-03-20 13:10:40,897 [DEBUG] [Dummy-11] [root/hotkeys.py:199]: Registered hotkey ctrl+alt+w
+2026-03-20 13:10:40,898 [WARNING] [Dummy-11] [root/hotkeys.py:201]: Failed to register hotkey win+q - it may be in use by another application.
+2026-03-20 13:10:40,898 [DEBUG] [Dummy-11] [root/hotkeys.py:199]: Registered hotkey alt+space
+2026-03-20 13:10:41,344 [INFO] [MainThread] [root/update_service.py:429]: Background update checker started
+2026-03-20 13:10:48,610 [DEBUG] [Dummy-17] [root/icon_resolver.py:117]: URL icon resolve failed for C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Terraria [GOG.com]\Documents\Support.url: File contains no section headers.
+file: 'C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Terraria [GOG.com]\\Documents\\Support.url', line: 1
+'\ufeff[InternetShortcut]\n'
+2026-03-20 13:10:56,659 [INFO] [Dummy-8] [root/event_listener.py:125]: Komorebi connected to named pipe: yasb-23d312d0-241b-11f1-92d1-8f92e9272a56
+2026-03-20 13:13:42,278 [INFO] [Dummy-29] [root/file_search.py:169]: Everything SDK loaded: C:\Program Files\YASB\lib\Everything64.dll
+2026-03-20 13:13:42,278 [INFO] [Dummy-29] [root/file_search.py:645]: File search: using Everything backend
+2026-03-20 13:15:05,619 [INFO] [MainThread] [root/service.py:192]: Quick Launch rebuilding app list after install/uninstall detected
+2026-03-20 13:15:13,755 [DEBUG] [Dummy-37] [root/icon_resolver.py:117]: URL icon resolve failed for C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Terraria [GOG.com]\Documents\Support.url: File contains no section headers.
+file: 'C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Terraria [GOG.com]\\Documents\\Support.url', line: 1
+'\ufeff[InternetShortcut]\n'
+2026-03-20 13:58:42,572 [INFO] [MainThread] [root/service.py:192]: Quick Launch rebuilding app list after install/uninstall detected
+2026-03-20 13:58:53,346 [DEBUG] [Dummy-46] [root/icon_resolver.py:117]: URL icon resolve failed for C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Terraria [GOG.com]\Documents\Support.url: File contains no section headers.
+file: 'C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Terraria [GOG.com]\\Documents\\Support.url', line: 1
+'\ufeff[InternetShortcut]\n'
+2026-03-20 14:30:05,536 [DEBUG] [Thread-9] [root/watcher.py:84]: Stylesheet modified: c:\users\acer\.config\yasb\styles.css
+2026-03-20 14:30:05,546 [DEBUG] [Thread-9] [root/watcher.py:97]: Imported stylesheet modified: c:\users\acer\.cache\wal\colors.css
+2026-03-20 14:33:30,414 [DEBUG] [Thread-9] [root/watcher.py:97]: Imported stylesheet modified: c:\users\acer\.cache\wal\colors.css
+2026-03-20 14:33:50,014 [DEBUG] [Thread-9] [root/watcher.py:97]: Imported stylesheet modified: c:\users\acer\.cache\wal\colors.css
+2026-03-20 14:35:33,676 [INFO] [MainThread] [root/controller.py:37]: Exiting Application...
+2026-03-20 14:35:33,789 [INFO] [MainThread] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-03-20 14:35:33,790 [DEBUG] [MainThread] [cli_server/cli_server.py:209]: CLI server stopped
+2026-03-20 14:35:35,798 [INFO] [MainThread] [root/bar_manager.py:96]: Stopping HotkeyListener...
+2026-03-20 14:35:35,799 [INFO] [MainThread] [root/bar_manager.py:104]: Stopping KomorebiEventListener...
+2026-03-20 14:35:35,801 [INFO] [MainThread] [core.utils.widgets.taskbar.window_manager/window_manager.py:218]: TaskbarWindowManager stopped
+2026-03-20 14:35:35,849 [INFO] [Dummy-8] [root/event_listener.py:92]: Attempting to reconnect to Komorebi...
+2026-03-20 18:28:45,495 [INFO] [MainThread] [root/log.py:95]: YASB v1.9.0
+2026-03-20 18:28:45,495 [INFO] [CLIPipeServer] [cli_server/cli_server.py:215]: CLI server started v1.1.6
+2026-03-20 18:28:45,496 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-03-20 18:28:45,669 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2026-03-20 18:28:45,672 [DEBUG] [Dummy-3] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2026-03-20 18:28:46,612 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-03-20 18:28:47,624 [INFO] [MainThread] [core.utils.widgets.taskbar.window_manager/window_manager.py:191]: TaskbarWindowManager is starting...
+2026-03-20 18:28:47,631 [INFO] [MainThread] [root/bar_manager.py:210]: Starting HotkeyListener...
+2026-03-20 18:28:47,631 [INFO] [MainThread] [root/bar_manager.py:88]: Starting KomorebiEventListener...
+2026-03-20 18:28:47,633 [INFO] [Dummy-9] [root/event_listener.py:51]: Created named pipe yasb-946801f3-2447-11f1-a246-b9dc763eee6f
+2026-03-20 18:28:47,633 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\acer\.cache\wal
+2026-03-20 18:28:47,634 [DEBUG] [Dummy-11] [root/hotkeys.py:199]: Registered hotkey ctrl+alt+d
+2026-03-20 18:28:47,634 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\acer\.config\yasb
+2026-03-20 18:28:47,634 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-03-20 18:28:47,634 [DEBUG] [Dummy-11] [root/hotkeys.py:199]: Registered hotkey ctrl+alt+w
+2026-03-20 18:28:47,635 [WARNING] [Dummy-11] [root/hotkeys.py:201]: Failed to register hotkey win+q - it may be in use by another application.
+2026-03-20 18:28:47,635 [DEBUG] [Dummy-11] [root/hotkeys.py:199]: Registered hotkey alt+space
+2026-03-20 18:28:48,113 [INFO] [MainThread] [root/update_service.py:429]: Background update checker started
+2026-03-20 18:28:53,216 [INFO] [Dummy-9] [root/event_listener.py:125]: Komorebi connected to named pipe: yasb-946801f3-2447-11f1-a246-b9dc763eee6f
+2026-03-20 18:28:55,313 [DEBUG] [Dummy-19] [root/icon_resolver.py:117]: URL icon resolve failed for C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Terraria [GOG.com]\Documents\Support.url: File contains no section headers.
+file: 'C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Terraria [GOG.com]\\Documents\\Support.url', line: 1
+'\ufeff[InternetShortcut]\n'
+2026-03-20 18:33:52,415 [INFO] [MainThread] [root/service.py:192]: Quick Launch rebuilding app list after install/uninstall detected
+2026-03-20 18:33:57,275 [DEBUG] [Dummy-26] [root/icon_resolver.py:117]: URL icon resolve failed for C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Terraria [GOG.com]\Documents\Support.url: File contains no section headers.
+file: 'C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Terraria [GOG.com]\\Documents\\Support.url', line: 1
+'\ufeff[InternetShortcut]\n'
+2026-03-20 18:34:07,174 [INFO] [MainThread] [root/service.py:192]: Quick Launch rebuilding app list after install/uninstall detected
+2026-03-20 18:34:11,637 [DEBUG] [Dummy-30] [root/icon_resolver.py:117]: URL icon resolve failed for C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Terraria [GOG.com]\Documents\Support.url: File contains no section headers.
+file: 'C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Terraria [GOG.com]\\Documents\\Support.url', line: 1
+'\ufeff[InternetShortcut]\n'
+2026-03-20 19:12:14,217 [INFO] [MainThread] [root/controller.py:37]: Exiting Application...
+2026-03-20 19:12:14,322 [INFO] [MainThread] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-03-20 19:12:14,322 [DEBUG] [MainThread] [cli_server/cli_server.py:209]: CLI server stopped
+2026-03-20 19:12:16,352 [INFO] [MainThread] [root/bar_manager.py:96]: Stopping HotkeyListener...
+2026-03-20 19:12:16,352 [INFO] [MainThread] [root/bar_manager.py:104]: Stopping KomorebiEventListener...
+2026-03-20 19:12:16,353 [INFO] [MainThread] [core.utils.widgets.taskbar.window_manager/window_manager.py:218]: TaskbarWindowManager stopped
+2026-03-20 19:12:16,358 [INFO] [Dummy-9] [root/event_listener.py:92]: Attempting to reconnect to Komorebi...
+2026-03-20 19:38:04,500 [INFO] [MainThread] [root/log.py:95]: YASB v1.9.0
+2026-03-20 19:38:04,501 [INFO] [CLIPipeServer] [cli_server/cli_server.py:215]: CLI server started v1.1.6
+2026-03-20 19:38:04,501 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-03-20 19:38:04,663 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2026-03-20 19:38:04,665 [DEBUG] [Dummy-3] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2026-03-20 19:38:05,714 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-03-20 19:38:07,326 [INFO] [MainThread] [core.utils.widgets.taskbar.window_manager/window_manager.py:191]: TaskbarWindowManager is starting...
+2026-03-20 19:38:07,334 [INFO] [MainThread] [root/bar_manager.py:210]: Starting HotkeyListener...
+2026-03-20 19:38:07,334 [INFO] [MainThread] [root/bar_manager.py:88]: Starting KomorebiEventListener...
+2026-03-20 19:38:07,336 [INFO] [Dummy-9] [root/event_listener.py:51]: Created named pipe yasb-43c85cf8-2451-11f1-ac77-883ce807308d
+2026-03-20 19:38:07,337 [DEBUG] [Dummy-11] [root/hotkeys.py:199]: Registered hotkey ctrl+alt+d
+2026-03-20 19:38:07,337 [DEBUG] [Dummy-11] [root/hotkeys.py:199]: Registered hotkey ctrl+alt+w
+2026-03-20 19:38:07,337 [WARNING] [Dummy-11] [root/hotkeys.py:201]: Failed to register hotkey win+q - it may be in use by another application.
+2026-03-20 19:38:07,338 [DEBUG] [Dummy-11] [root/hotkeys.py:199]: Registered hotkey alt+space
+2026-03-20 19:38:07,337 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\acer\.config\yasb
+2026-03-20 19:38:07,338 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\acer\.cache\wal
+2026-03-20 19:38:07,338 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-03-20 19:38:07,881 [INFO] [MainThread] [root/update_service.py:429]: Background update checker started
+2026-03-20 19:38:12,963 [INFO] [Dummy-9] [root/event_listener.py:125]: Komorebi connected to named pipe: yasb-43c85cf8-2451-11f1-ac77-883ce807308d
+2026-03-20 19:38:14,119 [DEBUG] [Dummy-19] [root/icon_resolver.py:117]: URL icon resolve failed for C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Terraria [GOG.com]\Documents\Support.url: File contains no section headers.
+file: 'C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Terraria [GOG.com]\\Documents\\Support.url', line: 1
+'\ufeff[InternetShortcut]\n'
+2026-03-20 21:12:41,202 [INFO] [MainThread] [root/service.py:192]: Quick Launch rebuilding app list after install/uninstall detected
+2026-03-20 21:12:53,765 [DEBUG] [Dummy-32] [root/icon_resolver.py:117]: URL icon resolve failed for C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Terraria [GOG.com]\Documents\Support.url: File contains no section headers.
+file: 'C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Terraria [GOG.com]\\Documents\\Support.url', line: 1
+'\ufeff[InternetShortcut]\n'
+2026-03-20 21:13:32,142 [INFO] [MainThread] [root/bar_manager.py:83]: Screens updated. Re-initialising all bars.
+2026-03-20 21:13:32,142 [INFO] [MainThread] [root/controller.py:15]: Reloading Application because of screen update.
+2026-03-20 21:13:32,246 [INFO] [MainThread] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-03-20 21:13:32,246 [DEBUG] [MainThread] [cli_server/cli_server.py:209]: CLI server stopped
+2026-03-20 21:13:35,533 [INFO] [MainThread] [root/bar_manager.py:96]: Stopping HotkeyListener...
+2026-03-20 21:13:35,539 [INFO] [MainThread] [root/bar_manager.py:104]: Stopping KomorebiEventListener...
+2026-03-20 21:13:35,543 [INFO] [MainThread] [core.utils.widgets.taskbar.window_manager/window_manager.py:218]: TaskbarWindowManager stopped
+2026-03-20 21:13:35,575 [INFO] [Dummy-9] [root/event_listener.py:92]: Attempting to reconnect to Komorebi...
+2026-03-20 21:13:35,671 [INFO] [MainThread] [root/log.py:95]: YASB v1.9.0
+2026-03-20 21:13:35,776 [INFO] [CLIPipeServer] [cli_server/cli_server.py:215]: CLI server started v1.1.6
+2026-03-20 21:13:35,827 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-03-20 21:13:35,827 [INFO] [MainThread] [root/main.py:46]: Waiting for previous YASB instance to exit...
+2026-03-20 21:13:39,194 [INFO] [MainThread] [root/main.py:72]: Previous instance exited, continuing startup.
+2026-03-20 21:13:40,016 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2026-03-20 21:13:40,028 [DEBUG] [Dummy-3] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2026-03-20 21:13:42,753 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-03-20 21:13:44,378 [INFO] [MainThread] [core.utils.widgets.taskbar.window_manager/window_manager.py:191]: TaskbarWindowManager is starting...
+2026-03-20 21:13:44,389 [INFO] [MainThread] [root/bar_manager.py:210]: Starting HotkeyListener...
+2026-03-20 21:13:44,389 [INFO] [MainThread] [root/bar_manager.py:88]: Starting KomorebiEventListener...
+2026-03-20 21:13:44,391 [INFO] [Dummy-9] [root/event_listener.py:51]: Created named pipe yasb-9f5565aa-245e-11f1-8ec2-883ce807308d
+2026-03-20 21:13:44,392 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\acer\.config\yasb
+2026-03-20 21:13:44,393 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\acer\.cache\wal
+2026-03-20 21:13:44,393 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-03-20 21:13:44,393 [DEBUG] [Dummy-12] [root/hotkeys.py:199]: Registered hotkey ctrl+alt+d
+2026-03-20 21:13:44,394 [DEBUG] [Dummy-12] [root/hotkeys.py:199]: Registered hotkey ctrl+alt+w
+2026-03-20 21:13:44,395 [WARNING] [Dummy-12] [root/hotkeys.py:201]: Failed to register hotkey win+q - it may be in use by another application.
+2026-03-20 21:13:44,395 [DEBUG] [Dummy-12] [root/hotkeys.py:199]: Registered hotkey alt+space
+2026-03-20 21:13:45,056 [INFO] [Dummy-9] [root/event_listener.py:125]: Komorebi connected to named pipe: yasb-9f5565aa-245e-11f1-8ec2-883ce807308d
+2026-03-20 21:13:45,075 [INFO] [MainThread] [root/update_service.py:429]: Background update checker started
+2026-03-20 21:13:50,291 [DEBUG] [Dummy-17] [root/icon_resolver.py:117]: URL icon resolve failed for C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Terraria [GOG.com]\Documents\Support.url: File contains no section headers.
+file: 'C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Terraria [GOG.com]\\Documents\\Support.url', line: 1
+'\ufeff[InternetShortcut]\n'
+2026-03-20 21:13:56,250 [INFO] [MainThread] [root/service.py:192]: Quick Launch rebuilding app list after install/uninstall detected
+2026-03-20 21:14:01,502 [DEBUG] [Dummy-23] [root/icon_resolver.py:117]: URL icon resolve failed for C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Terraria [GOG.com]\Documents\Support.url: File contains no section headers.
+file: 'C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Terraria [GOG.com]\\Documents\\Support.url', line: 1
+'\ufeff[InternetShortcut]\n'
+2026-03-20 21:14:49,658 [INFO] [MainThread] [root/service.py:192]: Quick Launch rebuilding app list after install/uninstall detected
+2026-03-20 21:14:54,218 [DEBUG] [Dummy-28] [root/icon_resolver.py:117]: URL icon resolve failed for C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Terraria [GOG.com]\Documents\Support.url: File contains no section headers.
+file: 'C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Terraria [GOG.com]\\Documents\\Support.url', line: 1
+'\ufeff[InternetShortcut]\n'
+2026-03-20 21:15:06,270 [INFO] [MainThread] [root/service.py:192]: Quick Launch rebuilding app list after install/uninstall detected
+2026-03-20 21:15:10,794 [DEBUG] [Dummy-32] [root/icon_resolver.py:117]: URL icon resolve failed for C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Terraria [GOG.com]\Documents\Support.url: File contains no section headers.
+file: 'C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Terraria [GOG.com]\\Documents\\Support.url', line: 1
+'\ufeff[InternetShortcut]\n'
+2026-03-20 21:15:11,643 [INFO] [MainThread] [root/service.py:192]: Quick Launch rebuilding app list after install/uninstall detected
+2026-03-20 21:15:16,147 [DEBUG] [Dummy-36] [root/icon_resolver.py:117]: URL icon resolve failed for C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Terraria [GOG.com]\Documents\Support.url: File contains no section headers.
+file: 'C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Terraria [GOG.com]\\Documents\\Support.url', line: 1
+'\ufeff[InternetShortcut]\n'
+2026-03-20 21:34:00,932 [INFO] [MainThread] [root/service.py:192]: Quick Launch rebuilding app list after install/uninstall detected
+2026-03-20 21:34:08,893 [DEBUG] [Dummy-46] [root/icon_resolver.py:117]: URL icon resolve failed for C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Terraria [GOG.com]\Documents\Support.url: File contains no section headers.
+file: 'C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Terraria [GOG.com]\\Documents\\Support.url', line: 1
+'\ufeff[InternetShortcut]\n'
+2026-03-20 21:34:53,518 [INFO] [MainThread] [root/service.py:192]: Quick Launch rebuilding app list after install/uninstall detected
+2026-03-20 21:34:58,559 [DEBUG] [Dummy-50] [root/icon_resolver.py:117]: URL icon resolve failed for C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Terraria [GOG.com]\Documents\Support.url: File contains no section headers.
+file: 'C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Terraria [GOG.com]\\Documents\\Support.url', line: 1
+'\ufeff[InternetShortcut]\n'
+2026-03-20 22:44:44,606 [INFO] [MainThread] [root/controller.py:37]: Exiting Application...
+2026-03-20 22:44:44,719 [INFO] [MainThread] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-03-20 22:44:44,719 [DEBUG] [MainThread] [cli_server/cli_server.py:209]: CLI server stopped
+2026-03-20 22:44:44,820 [INFO] [MainThread] [root/bar_manager.py:96]: Stopping HotkeyListener...
+2026-03-20 22:44:44,822 [INFO] [MainThread] [root/bar_manager.py:104]: Stopping KomorebiEventListener...
+2026-03-20 22:44:44,823 [INFO] [MainThread] [core.utils.widgets.taskbar.window_manager/window_manager.py:218]: TaskbarWindowManager stopped
+2026-03-20 22:44:44,872 [INFO] [Dummy-9] [root/event_listener.py:92]: Attempting to reconnect to Komorebi...
+2026-03-21 21:01:29,522 [INFO] [MainThread] [root/log.py:95]: YASB v1.9.0
+2026-03-21 21:01:29,524 [INFO] [CLIPipeServer] [cli_server/cli_server.py:215]: CLI server started v1.1.6
+2026-03-21 21:01:29,524 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-03-21 21:01:29,697 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2026-03-21 21:01:29,700 [DEBUG] [Dummy-3] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2026-03-21 21:01:30,673 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-03-21 21:01:31,406 [INFO] [MainThread] [core.utils.widgets.taskbar.window_manager/window_manager.py:191]: TaskbarWindowManager is starting...
+2026-03-21 21:01:31,411 [INFO] [MainThread] [root/bar_manager.py:210]: Starting HotkeyListener...
+2026-03-21 21:01:31,411 [INFO] [MainThread] [root/bar_manager.py:88]: Starting KomorebiEventListener...
+2026-03-21 21:01:31,413 [INFO] [Dummy-9] [root/event_listener.py:51]: Created named pipe yasb-14db903d-2526-11f1-aa4c-c143f3f4e16b
+2026-03-21 21:01:31,413 [DEBUG] [Dummy-11] [root/hotkeys.py:199]: Registered hotkey ctrl+alt+d
+2026-03-21 21:01:31,413 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\acer\.cache\wal
+2026-03-21 21:01:31,413 [DEBUG] [Dummy-11] [root/hotkeys.py:199]: Registered hotkey ctrl+alt+w
+2026-03-21 21:01:31,414 [WARNING] [Dummy-11] [root/hotkeys.py:201]: Failed to register hotkey win+q - it may be in use by another application.
+2026-03-21 21:01:31,414 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\acer\.config\yasb
+2026-03-21 21:01:31,414 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-03-21 21:01:31,414 [DEBUG] [Dummy-11] [root/hotkeys.py:199]: Registered hotkey alt+space
+2026-03-21 21:01:31,900 [INFO] [MainThread] [root/update_service.py:429]: Background update checker started
+2026-03-21 21:01:40,134 [DEBUG] [Dummy-17] [root/icon_resolver.py:117]: URL icon resolve failed for C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Terraria [GOG.com]\Documents\Support.url: File contains no section headers.
+file: 'C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Terraria [GOG.com]\\Documents\\Support.url', line: 1
+'\ufeff[InternetShortcut]\n'
+2026-03-21 21:02:02,825 [INFO] [Dummy-9] [root/event_listener.py:125]: Komorebi connected to named pipe: yasb-14db903d-2526-11f1-aa4c-c143f3f4e16b
+2026-03-21 21:03:39,091 [INFO] [MainThread] [root/service.py:192]: Quick Launch rebuilding app list after install/uninstall detected
+2026-03-21 21:03:42,280 [DEBUG] [Dummy-36] [root/icon_resolver.py:117]: URL icon resolve failed for C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Terraria [GOG.com]\Documents\Support.url: File contains no section headers.
+file: 'C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Terraria [GOG.com]\\Documents\\Support.url', line: 1
+'\ufeff[InternetShortcut]\n'
+2026-03-21 21:03:55,534 [INFO] [MainThread] [root/service.py:192]: Quick Launch rebuilding app list after install/uninstall detected
+2026-03-21 21:03:58,660 [DEBUG] [Dummy-40] [root/icon_resolver.py:117]: URL icon resolve failed for C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Terraria [GOG.com]\Documents\Support.url: File contains no section headers.
+file: 'C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Terraria [GOG.com]\\Documents\\Support.url', line: 1
+'\ufeff[InternetShortcut]\n'
+2026-03-21 21:04:07,503 [INFO] [MainThread] [root/service.py:192]: Quick Launch rebuilding app list after install/uninstall detected
+2026-03-21 21:04:10,603 [DEBUG] [Dummy-44] [root/icon_resolver.py:117]: URL icon resolve failed for C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Terraria [GOG.com]\Documents\Support.url: File contains no section headers.
+file: 'C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Terraria [GOG.com]\\Documents\\Support.url', line: 1
+'\ufeff[InternetShortcut]\n'
+2026-03-21 21:04:21,766 [INFO] [MainThread] [root/service.py:192]: Quick Launch rebuilding app list after install/uninstall detected
+2026-03-21 21:04:24,892 [DEBUG] [Dummy-48] [root/icon_resolver.py:117]: URL icon resolve failed for C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Terraria [GOG.com]\Documents\Support.url: File contains no section headers.
+file: 'C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Terraria [GOG.com]\\Documents\\Support.url', line: 1
+'\ufeff[InternetShortcut]\n'
+2026-03-21 21:07:47,361 [INFO] [MainThread] [root/service.py:192]: Quick Launch rebuilding app list after install/uninstall detected
+2026-03-21 21:07:50,973 [DEBUG] [Dummy-53] [root/icon_resolver.py:117]: URL icon resolve failed for C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Terraria [GOG.com]\Documents\Support.url: File contains no section headers.
+file: 'C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Terraria [GOG.com]\\Documents\\Support.url', line: 1
+'\ufeff[InternetShortcut]\n'
+2026-03-21 23:45:02,819 [INFO] [MainThread] [root/controller.py:37]: Exiting Application...
+2026-03-21 23:45:02,924 [INFO] [MainThread] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-03-21 23:45:02,925 [DEBUG] [MainThread] [cli_server/cli_server.py:209]: CLI server stopped
+2026-03-21 23:45:03,021 [INFO] [MainThread] [root/bar_manager.py:96]: Stopping HotkeyListener...
+2026-03-21 23:45:03,022 [INFO] [MainThread] [root/bar_manager.py:104]: Stopping KomorebiEventListener...
+2026-03-21 23:45:03,024 [INFO] [MainThread] [core.utils.widgets.taskbar.window_manager/window_manager.py:218]: TaskbarWindowManager stopped
+2026-03-21 23:45:03,072 [INFO] [Dummy-9] [root/event_listener.py:92]: Attempting to reconnect to Komorebi...
+2026-03-23 08:34:09,611 [INFO] [MainThread] [root/log.py:95]: YASB v1.9.0
+2026-03-23 08:34:09,612 [INFO] [CLIPipeServer] [cli_server/cli_server.py:215]: CLI server started v1.1.6
+2026-03-23 08:34:09,613 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-03-23 08:34:09,809 [DEBUG] [MainThread] [qasync._windows._EventPoller/_windows.py:215]: Starting (proactor: <_IocpProactor overlapped#=0 result#=0>)...
+2026-03-23 08:34:09,812 [DEBUG] [Dummy-3] [qasync._windows._EventWorker/_windows.py:195]: Thread started
+2026-03-23 08:34:11,189 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-03-23 08:34:12,152 [INFO] [MainThread] [core.utils.widgets.taskbar.window_manager/window_manager.py:191]: TaskbarWindowManager is starting...
+2026-03-23 08:34:12,160 [INFO] [MainThread] [root/bar_manager.py:210]: Starting HotkeyListener...
+2026-03-23 08:34:12,160 [INFO] [MainThread] [root/bar_manager.py:88]: Starting KomorebiEventListener...
+2026-03-23 08:34:12,162 [INFO] [Dummy-9] [root/event_listener.py:51]: Created named pipe yasb-03685417-2650-11f1-9352-d3e3e76e4809
+2026-03-23 08:34:12,162 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\acer\.config\yasb
+2026-03-23 08:34:12,163 [DEBUG] [Dummy-11] [root/hotkeys.py:199]: Registered hotkey ctrl+alt+d
+2026-03-23 08:34:12,163 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\acer\.cache\wal
+2026-03-23 08:34:12,163 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-03-23 08:34:12,163 [DEBUG] [Dummy-11] [root/hotkeys.py:199]: Registered hotkey ctrl+alt+w
+2026-03-23 08:34:12,164 [WARNING] [Dummy-11] [root/hotkeys.py:201]: Failed to register hotkey win+q - it may be in use by another application.
+2026-03-23 08:34:12,164 [DEBUG] [Dummy-11] [root/hotkeys.py:199]: Registered hotkey alt+space
+2026-03-23 08:34:12,737 [INFO] [MainThread] [root/update_service.py:429]: Background update checker started
+2026-03-23 08:34:20,558 [DEBUG] [Dummy-17] [root/icon_resolver.py:117]: URL icon resolve failed for C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Terraria [GOG.com]\Documents\Support.url: File contains no section headers.
+file: 'C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Terraria [GOG.com]\\Documents\\Support.url', line: 1
+'\ufeff[InternetShortcut]\n'
+2026-03-23 08:34:22,940 [INFO] [Dummy-9] [root/event_listener.py:125]: Komorebi connected to named pipe: yasb-03685417-2650-11f1-9352-d3e3e76e4809
+2026-03-23 08:35:19,795 [INFO] [MainThread] [root/log.py:99]: YASB v1.9.1
+2026-03-23 08:35:19,796 [INFO] [CLIPipeServer] [cli_server/cli_server.py:215]: CLI server started v1.1.6
+2026-03-23 08:35:19,797 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-03-23 08:35:21,334 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-03-23 08:35:23,053 [INFO] [MainThread] [core.utils.widgets.taskbar.window_manager/window_manager.py:192]: TaskbarWindowManager is starting...
+2026-03-23 08:35:23,059 [INFO] [MainThread] [root/bar_manager.py:219]: Starting HotkeyListener...
+2026-03-23 08:35:23,060 [INFO] [MainThread] [root/bar_manager.py:95]: Starting KomorebiEventListener...
+2026-03-23 08:35:23,060 [ERROR] [MainThread] [root/widget_builder.py:111]: Failed to validate widget(s) due to invalid options  - quick_launch
+      popup:
+        screen:
+        - Extra inputs are not permitted
+      
+2026-03-23 08:35:23,062 [INFO] [Dummy-4] [root/event_listener.py:55]: Created named pipe yasb-2daaca77-2650-11f1-b1ff-d3e3e76e4809
+2026-03-23 08:35:23,063 [DEBUG] [Dummy-5] [root/hotkeys.py:200]: Registered hotkey ctrl+alt+d
+2026-03-23 08:35:23,063 [DEBUG] [Dummy-5] [root/hotkeys.py:200]: Registered hotkey ctrl+alt+w
+2026-03-23 08:35:23,063 [WARNING] [Dummy-5] [root/hotkeys.py:202]: Failed to register hotkey win+q - it may be in use by another application.
+2026-03-23 08:35:23,064 [DEBUG] [Dummy-5] [root/hotkeys.py:200]: Registered hotkey alt+space
+2026-03-23 08:35:23,524 [INFO] [Dummy-4] [root/event_listener.py:149]: Komorebi connected to named pipe: yasb-2daaca77-2650-11f1-b1ff-d3e3e76e4809
+2026-03-23 08:35:23,536 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\acer\.config\yasb
+2026-03-23 08:35:23,536 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\acer\.cache\wal
+2026-03-23 08:35:23,536 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-03-23 08:35:23,617 [INFO] [MainThread] [root/update_service.py:429]: Background update checker started
+2026-03-23 08:36:04,856 [DEBUG] [Thread-8] [root/watcher.py:90]: Config file modified: c:\users\acer\.config\yasb\config.yaml
+2026-03-23 08:36:04,923 [INFO] [MainThread] [root/controller.py:21]: Reloading Application because of config change.
+2026-03-23 08:36:05,037 [INFO] [MainThread] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-03-23 08:36:05,037 [DEBUG] [MainThread] [cli_server/cli_server.py:209]: CLI server stopped
+2026-03-23 08:36:05,045 [INFO] [MainThread] [root/bar_manager.py:85]: Successfully loaded updated config and re-initialised all bars.
+2026-03-23 08:36:05,875 [INFO] [MainThread] [root/bar_manager.py:103]: Stopping HotkeyListener...
+2026-03-23 08:36:05,876 [INFO] [MainThread] [root/bar_manager.py:111]: Stopping KomorebiEventListener...
+2026-03-23 08:36:05,880 [INFO] [MainThread] [core.utils.widgets.taskbar.window_manager/window_manager.py:219]: TaskbarWindowManager stopped
+2026-03-23 08:36:06,748 [INFO] [MainThread] [root/log.py:99]: YASB v1.9.1
+2026-03-23 08:36:06,749 [INFO] [CLIPipeServer] [cli_server/cli_server.py:215]: CLI server started v1.1.6
+2026-03-23 08:36:06,750 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-03-23 08:36:07,440 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-03-23 08:36:09,328 [INFO] [MainThread] [core.utils.widgets.taskbar.window_manager/window_manager.py:192]: TaskbarWindowManager is starting...
+2026-03-23 08:36:09,338 [INFO] [MainThread] [root/bar_manager.py:219]: Starting HotkeyListener...
+2026-03-23 08:36:09,339 [INFO] [MainThread] [root/bar_manager.py:95]: Starting KomorebiEventListener...
+2026-03-23 08:36:09,342 [INFO] [Dummy-8] [root/event_listener.py:55]: Created named pipe yasb-49408a5f-2650-11f1-b077-d3e3e76e4809
+2026-03-23 08:36:09,343 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\acer\.config\yasb
+2026-03-23 08:36:09,343 [DEBUG] [Dummy-10] [root/hotkeys.py:200]: Registered hotkey ctrl+alt+d
+2026-03-23 08:36:09,344 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\acer\.cache\wal
+2026-03-23 08:36:09,345 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-03-23 08:36:09,344 [DEBUG] [Dummy-10] [root/hotkeys.py:200]: Registered hotkey ctrl+alt+w
+2026-03-23 08:36:09,345 [WARNING] [Dummy-10] [root/hotkeys.py:202]: Failed to register hotkey win+q - it may be in use by another application.
+2026-03-23 08:36:09,346 [DEBUG] [Dummy-10] [root/hotkeys.py:200]: Registered hotkey alt+space
+2026-03-23 08:36:09,502 [INFO] [MainThread] [root/update_service.py:429]: Background update checker started
+2026-03-23 08:36:09,603 [INFO] [Dummy-8] [root/event_listener.py:149]: Komorebi connected to named pipe: yasb-49408a5f-2650-11f1-b077-d3e3e76e4809
+2026-03-23 08:36:15,430 [DEBUG] [Dummy-16] [root/icon_extractor.py:318]: URL icon resolve failed for C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Terraria [GOG.com]\Documents\Support.url: File contains no section headers.
+file: 'C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Terraria [GOG.com]\\Documents\\Support.url', line: 1
+'\ufeff[InternetShortcut]\n'
+2026-03-23 08:38:08,463 [INFO] [MainThread] [root/service.py:210]: Quick Launch rebuilding app list after install/uninstall detected
+2026-03-23 08:38:12,683 [DEBUG] [Dummy-22] [root/icon_extractor.py:318]: URL icon resolve failed for C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Terraria [GOG.com]\Documents\Support.url: File contains no section headers.
+file: 'C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Terraria [GOG.com]\\Documents\\Support.url', line: 1
+'\ufeff[InternetShortcut]\n'
+2026-03-23 08:43:06,050 [INFO] [MainThread] [root/controller.py:43]: Exiting Application...
+2026-03-23 08:43:06,164 [INFO] [MainThread] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-03-23 08:43:06,164 [DEBUG] [MainThread] [cli_server/cli_server.py:209]: CLI server stopped
+2026-03-23 08:43:08,315 [INFO] [MainThread] [root/bar_manager.py:103]: Stopping HotkeyListener...
+2026-03-23 08:43:08,318 [INFO] [MainThread] [root/bar_manager.py:111]: Stopping KomorebiEventListener...
+2026-03-23 08:43:08,323 [INFO] [MainThread] [core.utils.widgets.taskbar.window_manager/window_manager.py:219]: TaskbarWindowManager stopped
+2026-03-23 20:25:43,709 [INFO] [MainThread] [root/log.py:99]: YASB v1.9.1
+2026-03-23 20:25:43,711 [INFO] [CLIPipeServer] [cli_server/cli_server.py:215]: CLI server started v1.1.6
+2026-03-23 20:25:43,712 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-03-23 20:25:45,581 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-03-23 20:25:48,009 [INFO] [MainThread] [core.utils.widgets.taskbar.window_manager/window_manager.py:192]: TaskbarWindowManager is starting...
+2026-03-23 20:25:48,022 [INFO] [MainThread] [root/bar_manager.py:219]: Starting HotkeyListener...
+2026-03-23 20:25:48,023 [INFO] [MainThread] [root/bar_manager.py:95]: Starting KomorebiEventListener...
+2026-03-23 20:25:48,024 [INFO] [Dummy-7] [root/event_listener.py:55]: Created named pipe yasb-6c1ffccb-26b3-11f1-a520-f57c11a42a11
+2026-03-23 20:25:48,026 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\acer\.cache\wal
+2026-03-23 20:25:48,026 [DEBUG] [Dummy-10] [root/hotkeys.py:200]: Registered hotkey ctrl+alt+d
+2026-03-23 20:25:48,027 [DEBUG] [Dummy-10] [root/hotkeys.py:200]: Registered hotkey ctrl+alt+w
+2026-03-23 20:25:48,027 [WARNING] [Dummy-10] [root/hotkeys.py:202]: Failed to register hotkey win+q - it may be in use by another application.
+2026-03-23 20:25:48,027 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\acer\.config\yasb
+2026-03-23 20:25:48,028 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-03-23 20:25:48,027 [DEBUG] [Dummy-10] [root/hotkeys.py:200]: Registered hotkey alt+space
+2026-03-23 20:25:48,724 [INFO] [MainThread] [root/update_service.py:429]: Background update checker started
+2026-03-23 20:25:49,494 [WARNING] [UpdateChecker] [root/update_service.py:296]: Network error checking for updates: [Errno 11001] getaddrinfo failed
+2026-03-23 20:25:49,494 [WARNING] [UpdateChecker] [root/update_service.py:425]: Background update check failed: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-03-23 20:25:56,471 [DEBUG] [Dummy-16] [root/icon_extractor.py:318]: URL icon resolve failed for C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Terraria [GOG.com]\Documents\Support.url: File contains no section headers.
+file: 'C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Terraria [GOG.com]\\Documents\\Support.url', line: 1
+'\ufeff[InternetShortcut]\n'
+2026-03-23 20:25:58,954 [INFO] [Dummy-7] [root/event_listener.py:149]: Komorebi connected to named pipe: yasb-6c1ffccb-26b3-11f1-a520-f57c11a42a11
+2026-03-23 20:28:37,293 [INFO] [MainThread] [root/controller.py:43]: Exiting Application...
+2026-03-23 20:28:37,399 [INFO] [MainThread] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-03-23 20:28:37,399 [DEBUG] [MainThread] [cli_server/cli_server.py:209]: CLI server stopped
+2026-03-23 20:28:39,586 [INFO] [MainThread] [root/bar_manager.py:103]: Stopping HotkeyListener...
+2026-03-23 20:28:39,588 [INFO] [MainThread] [root/bar_manager.py:111]: Stopping KomorebiEventListener...
+2026-03-23 20:28:39,590 [INFO] [MainThread] [core.utils.widgets.taskbar.window_manager/window_manager.py:219]: TaskbarWindowManager stopped
+2026-03-23 20:38:40,450 [INFO] [MainThread] [root/log.py:99]: YASB v1.9.1
+2026-03-23 20:38:40,452 [INFO] [CLIPipeServer] [cli_server/cli_server.py:215]: CLI server started v1.1.6
+2026-03-23 20:38:40,452 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-03-23 20:38:41,737 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-03-23 20:38:43,301 [INFO] [MainThread] [core.utils.widgets.taskbar.window_manager/window_manager.py:192]: TaskbarWindowManager is starting...
+2026-03-23 20:38:43,308 [INFO] [MainThread] [root/bar_manager.py:219]: Starting HotkeyListener...
+2026-03-23 20:38:43,308 [INFO] [MainThread] [root/bar_manager.py:95]: Starting KomorebiEventListener...
+2026-03-23 20:38:43,309 [INFO] [Dummy-7] [root/event_listener.py:55]: Created named pipe yasb-3a3b36fe-26b5-11f1-8e1d-8f758fd2b632
+2026-03-23 20:38:43,310 [DEBUG] [Dummy-9] [root/hotkeys.py:200]: Registered hotkey ctrl+alt+d
+2026-03-23 20:38:43,311 [DEBUG] [Dummy-9] [root/hotkeys.py:200]: Registered hotkey ctrl+alt+w
+2026-03-23 20:38:43,311 [WARNING] [Dummy-9] [root/hotkeys.py:202]: Failed to register hotkey win+q - it may be in use by another application.
+2026-03-23 20:38:43,311 [DEBUG] [Dummy-9] [root/hotkeys.py:200]: Registered hotkey alt+space
+2026-03-23 20:38:43,311 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\acer\.cache\wal
+2026-03-23 20:38:43,312 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\acer\.config\yasb
+2026-03-23 20:38:43,312 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-03-23 20:38:43,775 [INFO] [MainThread] [root/update_service.py:429]: Background update checker started
+2026-03-23 20:38:44,299 [WARNING] [UpdateChecker] [root/update_service.py:296]: Network error checking for updates: [Errno 11001] getaddrinfo failed
+2026-03-23 20:38:44,299 [WARNING] [UpdateChecker] [root/update_service.py:425]: Background update check failed: <urlopen error [Errno 11001] getaddrinfo failed>
+2026-03-23 20:38:48,839 [INFO] [Dummy-7] [root/event_listener.py:149]: Komorebi connected to named pipe: yasb-3a3b36fe-26b5-11f1-8e1d-8f758fd2b632
+2026-03-23 20:38:50,334 [DEBUG] [Dummy-18] [root/icon_extractor.py:318]: URL icon resolve failed for C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Terraria [GOG.com]\Documents\Support.url: File contains no section headers.
+file: 'C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Terraria [GOG.com]\\Documents\\Support.url', line: 1
+'\ufeff[InternetShortcut]\n'
+2026-03-23 20:40:27,311 [INFO] [MainThread] [root/service.py:210]: Quick Launch rebuilding app list after install/uninstall detected
+2026-03-23 20:40:31,728 [DEBUG] [Dummy-23] [root/icon_extractor.py:318]: URL icon resolve failed for C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Terraria [GOG.com]\Documents\Support.url: File contains no section headers.
+file: 'C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Terraria [GOG.com]\\Documents\\Support.url', line: 1
+'\ufeff[InternetShortcut]\n'
+2026-03-23 20:42:34,990 [INFO] [MainThread] [root/bar.py:149]: Screen geometry changed. Updating position for bar primary-bar on screen \\.\DISPLAY1
+2026-03-23 20:43:26,548 [INFO] [MainThread] [root/bar.py:149]: Screen geometry changed. Updating position for bar primary-bar on screen \\.\DISPLAY1
+2026-03-23 20:43:36,817 [INFO] [MainThread] [root/bar.py:149]: Screen geometry changed. Updating position for bar primary-bar on screen \\.\DISPLAY1
+2026-03-23 20:47:03,822 [INFO] [MainThread] [root/bar.py:149]: Screen geometry changed. Updating position for bar primary-bar on screen \\.\DISPLAY1
+2026-03-23 20:47:20,386 [INFO] [MainThread] [root/controller.py:43]: Exiting Application...
+2026-03-23 20:47:20,487 [INFO] [MainThread] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-03-23 20:47:20,487 [DEBUG] [MainThread] [cli_server/cli_server.py:209]: CLI server stopped
+2026-03-23 20:47:22,626 [INFO] [MainThread] [root/bar_manager.py:103]: Stopping HotkeyListener...
+2026-03-23 20:47:22,628 [INFO] [MainThread] [root/bar_manager.py:111]: Stopping KomorebiEventListener...
+2026-03-23 20:47:22,631 [INFO] [MainThread] [core.utils.widgets.taskbar.window_manager/window_manager.py:219]: TaskbarWindowManager stopped
+2026-03-24 20:53:33,367 [INFO] [MainThread] [root/log.py:99]: YASB v1.9.1
+2026-03-24 20:53:33,368 [INFO] [CLIPipeServer] [cli_server/cli_server.py:215]: CLI server started v1.1.6
+2026-03-24 20:53:33,369 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-03-24 20:53:34,496 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-03-24 20:53:35,501 [INFO] [MainThread] [core.utils.widgets.taskbar.window_manager/window_manager.py:192]: TaskbarWindowManager is starting...
+2026-03-24 20:53:35,508 [INFO] [MainThread] [root/bar_manager.py:219]: Starting HotkeyListener...
+2026-03-24 20:53:35,508 [INFO] [MainThread] [root/bar_manager.py:95]: Starting KomorebiEventListener...
+2026-03-24 20:53:35,509 [INFO] [Dummy-7] [root/event_listener.py:55]: Created named pipe yasb-786fd62d-2780-11f1-9f9d-e6a1f494e5b1
+2026-03-24 20:53:35,511 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\acer\.cache\wal
+2026-03-24 20:53:35,511 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\acer\.config\yasb
+2026-03-24 20:53:35,512 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-03-24 20:53:35,511 [DEBUG] [Dummy-11] [root/hotkeys.py:200]: Registered hotkey ctrl+alt+d
+2026-03-24 20:53:35,512 [DEBUG] [Dummy-11] [root/hotkeys.py:200]: Registered hotkey ctrl+alt+w
+2026-03-24 20:53:35,512 [WARNING] [Dummy-11] [root/hotkeys.py:202]: Failed to register hotkey win+q - it may be in use by another application.
+2026-03-24 20:53:35,513 [DEBUG] [Dummy-11] [root/hotkeys.py:200]: Registered hotkey alt+space
+2026-03-24 20:53:36,066 [INFO] [MainThread] [root/update_service.py:429]: Background update checker started
+2026-03-24 20:53:43,638 [DEBUG] [Dummy-16] [root/icon_extractor.py:318]: URL icon resolve failed for C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Terraria [GOG.com]\Documents\Support.url: File contains no section headers.
+file: 'C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Terraria [GOG.com]\\Documents\\Support.url', line: 1
+'\ufeff[InternetShortcut]\n'
+2026-03-24 20:54:06,865 [INFO] [Dummy-7] [root/event_listener.py:149]: Komorebi connected to named pipe: yasb-786fd62d-2780-11f1-9f9d-e6a1f494e5b1
+2026-03-24 20:54:32,340 [INFO] [Dummy-30] [root/file_search.py:170]: Everything SDK loaded: C:\Program Files\YASB\lib\Everything64.dll
+2026-03-24 20:54:32,340 [INFO] [Dummy-30] [root/file_search.py:646]: File search: using Everything backend
+2026-03-24 21:01:04,888 [INFO] [MainThread] [root/service.py:210]: Quick Launch rebuilding app list after install/uninstall detected
+2026-03-24 21:01:08,617 [DEBUG] [Dummy-39] [root/icon_extractor.py:318]: URL icon resolve failed for C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Terraria [GOG.com]\Documents\Support.url: File contains no section headers.
+file: 'C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Terraria [GOG.com]\\Documents\\Support.url', line: 1
+'\ufeff[InternetShortcut]\n'
+2026-03-24 22:15:09,825 [INFO] [MainThread] [root/controller.py:43]: Exiting Application...
+2026-03-24 22:15:09,941 [INFO] [MainThread] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-03-24 22:15:09,942 [DEBUG] [MainThread] [cli_server/cli_server.py:209]: CLI server stopped
+2026-03-24 22:15:10,049 [INFO] [MainThread] [root/bar_manager.py:103]: Stopping HotkeyListener...
+2026-03-24 22:15:10,052 [INFO] [MainThread] [root/bar_manager.py:111]: Stopping KomorebiEventListener...
+2026-03-24 22:15:10,054 [INFO] [MainThread] [core.utils.widgets.taskbar.window_manager/window_manager.py:219]: TaskbarWindowManager stopped
+2026-03-27 21:25:16,777 [INFO] [MainThread] [root/log.py:99]: YASB v1.9.1
+2026-03-27 21:25:16,778 [INFO] [CLIPipeServer] [cli_server/cli_server.py:215]: CLI server started v1.1.6
+2026-03-27 21:25:16,778 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-03-27 21:25:18,386 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-03-27 21:25:19,622 [INFO] [MainThread] [core.utils.widgets.taskbar.window_manager/window_manager.py:192]: TaskbarWindowManager is starting...
+2026-03-27 21:25:19,635 [INFO] [MainThread] [root/bar_manager.py:219]: Starting HotkeyListener...
+2026-03-27 21:25:19,636 [INFO] [MainThread] [root/bar_manager.py:95]: Starting KomorebiEventListener...
+2026-03-27 21:25:19,645 [DEBUG] [Dummy-8] [root/hotkeys.py:200]: Registered hotkey ctrl+alt+d
+2026-03-27 21:25:19,646 [DEBUG] [Dummy-8] [root/hotkeys.py:200]: Registered hotkey ctrl+alt+w
+2026-03-27 21:25:19,647 [WARNING] [Dummy-8] [root/hotkeys.py:202]: Failed to register hotkey win+q - it may be in use by another application.
+2026-03-27 21:25:19,648 [DEBUG] [Dummy-8] [root/hotkeys.py:200]: Registered hotkey alt+space
+2026-03-27 21:25:19,654 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\acer\.config\yasb
+2026-03-27 21:25:19,655 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\acer\.cache\wal
+2026-03-27 21:25:19,655 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-03-27 21:25:19,656 [INFO] [Dummy-11] [root/event_listener.py:55]: Created named pipe yasb-669fe109-29e0-11f1-88c3-912e0f16bdf7
+2026-03-27 21:25:20,678 [INFO] [MainThread] [root/update_service.py:429]: Background update checker started
+2026-03-27 21:25:28,815 [DEBUG] [Dummy-16] [root/icon_extractor.py:318]: URL icon resolve failed for C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Terraria [GOG.com]\Documents\Support.url: File contains no section headers.
+file: 'C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Terraria [GOG.com]\\Documents\\Support.url', line: 1
+'\ufeff[InternetShortcut]\n'
+2026-03-27 21:25:30,805 [INFO] [Dummy-11] [root/event_listener.py:149]: Komorebi connected to named pipe: yasb-669fe109-29e0-11f1-88c3-912e0f16bdf7
+2026-03-27 21:35:19,978 [INFO] [MainThread] [root/service.py:210]: Quick Launch rebuilding app list after install/uninstall detected
+2026-03-27 21:35:24,731 [DEBUG] [Dummy-29] [root/icon_extractor.py:318]: URL icon resolve failed for C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Terraria [GOG.com]\Documents\Support.url: File contains no section headers.
+file: 'C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Terraria [GOG.com]\\Documents\\Support.url', line: 1
+'\ufeff[InternetShortcut]\n'
+2026-03-27 22:03:27,887 [INFO] [MainThread] [root/log.py:99]: YASB v1.9.1
+2026-03-27 22:03:27,888 [INFO] [CLIPipeServer] [cli_server/cli_server.py:215]: CLI server started v1.1.6
+2026-03-27 22:03:27,889 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-03-27 22:03:28,834 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-03-27 22:03:30,134 [INFO] [MainThread] [core.utils.widgets.taskbar.window_manager/window_manager.py:192]: TaskbarWindowManager is starting...
+2026-03-27 22:03:30,152 [INFO] [MainThread] [root/bar_manager.py:219]: Starting HotkeyListener...
+2026-03-27 22:03:30,153 [INFO] [MainThread] [root/bar_manager.py:95]: Starting KomorebiEventListener...
+2026-03-27 22:03:30,155 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\acer\.config\yasb
+2026-03-27 22:03:30,155 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\acer\.cache\wal
+2026-03-27 22:03:30,156 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-03-27 22:03:30,157 [INFO] [Dummy-10] [root/event_listener.py:55]: Created named pipe yasb-bbe10aa8-29e5-11f1-a78e-e241fcf510f8
+2026-03-27 22:03:30,160 [DEBUG] [Dummy-11] [root/hotkeys.py:200]: Registered hotkey ctrl+alt+d
+2026-03-27 22:03:30,160 [DEBUG] [Dummy-11] [root/hotkeys.py:200]: Registered hotkey ctrl+alt+w
+2026-03-27 22:03:30,160 [WARNING] [Dummy-11] [root/hotkeys.py:202]: Failed to register hotkey win+q - it may be in use by another application.
+2026-03-27 22:03:30,160 [DEBUG] [Dummy-11] [root/hotkeys.py:200]: Registered hotkey alt+space
+2026-03-27 22:03:30,789 [INFO] [MainThread] [root/update_service.py:429]: Background update checker started
+2026-03-27 22:03:35,897 [INFO] [Dummy-10] [root/event_listener.py:149]: Komorebi connected to named pipe: yasb-bbe10aa8-29e5-11f1-a78e-e241fcf510f8
+2026-03-27 22:03:36,958 [DEBUG] [Dummy-18] [root/icon_extractor.py:318]: URL icon resolve failed for C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Terraria [GOG.com]\Documents\Support.url: File contains no section headers.
+file: 'C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Terraria [GOG.com]\\Documents\\Support.url', line: 1
+'\ufeff[InternetShortcut]\n'
+2026-03-27 22:03:52,142 [INFO] [MainThread] [root/bar_helper.py:561]: AppBarManager need to re-register 1 bar
+2026-03-27 22:03:52,772 [INFO] [MainThread] [root/bar_helper.py:570]: Re-registered AppBar for primary-bar_DISPLAY1_8ea26725 (space reservation + fullscreen)
+2026-03-27 22:34:32,335 [INFO] [MainThread] [root/controller.py:43]: Exiting Application...
+2026-03-27 22:34:32,442 [INFO] [MainThread] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-03-27 22:34:32,443 [DEBUG] [MainThread] [cli_server/cli_server.py:209]: CLI server stopped
+2026-03-27 22:34:34,472 [INFO] [MainThread] [root/bar_manager.py:103]: Stopping HotkeyListener...
+2026-03-27 22:34:34,473 [INFO] [MainThread] [root/bar_manager.py:111]: Stopping KomorebiEventListener...
+2026-03-27 22:34:34,475 [INFO] [MainThread] [core.utils.widgets.taskbar.window_manager/window_manager.py:219]: TaskbarWindowManager stopped
+2026-03-28 20:02:17,924 [INFO] [MainThread] [root/log.py:99]: YASB v1.9.1
+2026-03-28 20:02:17,926 [INFO] [CLIPipeServer] [cli_server/cli_server.py:215]: CLI server started v1.1.6
+2026-03-28 20:02:17,926 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-03-28 20:02:19,077 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-03-28 20:02:20,500 [INFO] [MainThread] [core.utils.widgets.taskbar.window_manager/window_manager.py:192]: TaskbarWindowManager is starting...
+2026-03-28 20:02:20,515 [INFO] [MainThread] [root/bar_manager.py:219]: Starting HotkeyListener...
+2026-03-28 20:02:20,515 [INFO] [MainThread] [root/bar_manager.py:95]: Starting KomorebiEventListener...
+2026-03-28 20:02:20,518 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\acer\.config\yasb
+2026-03-28 20:02:20,518 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\acer\.cache\wal
+2026-03-28 20:02:20,518 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-03-28 20:02:20,522 [INFO] [Dummy-10] [root/event_listener.py:55]: Created named pipe yasb-f94024be-2a9d-11f1-8127-dc0c2495f496
+2026-03-28 20:02:20,526 [DEBUG] [Dummy-11] [root/hotkeys.py:200]: Registered hotkey ctrl+alt+d
+2026-03-28 20:02:20,527 [DEBUG] [Dummy-11] [root/hotkeys.py:200]: Registered hotkey ctrl+alt+w
+2026-03-28 20:02:20,527 [WARNING] [Dummy-11] [root/hotkeys.py:202]: Failed to register hotkey win+q - it may be in use by another application.
+2026-03-28 20:02:20,527 [DEBUG] [Dummy-11] [root/hotkeys.py:200]: Registered hotkey alt+space
+2026-03-28 20:02:21,066 [INFO] [MainThread] [root/update_service.py:429]: Background update checker started
+2026-03-28 20:02:26,160 [INFO] [Dummy-10] [root/event_listener.py:149]: Komorebi connected to named pipe: yasb-f94024be-2a9d-11f1-8127-dc0c2495f496
+2026-03-28 20:02:26,550 [DEBUG] [Dummy-18] [root/icon_extractor.py:318]: URL icon resolve failed for C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Terraria [GOG.com]\Documents\Support.url: File contains no section headers.
+file: 'C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Terraria [GOG.com]\\Documents\\Support.url', line: 1
+'\ufeff[InternetShortcut]\n'
+2026-03-28 20:05:37,855 [INFO] [MainThread] [root/service.py:210]: Quick Launch rebuilding app list after install/uninstall detected
+2026-03-28 20:05:41,887 [DEBUG] [Dummy-27] [root/icon_extractor.py:318]: URL icon resolve failed for C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Terraria [GOG.com]\Documents\Support.url: File contains no section headers.
+file: 'C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Terraria [GOG.com]\\Documents\\Support.url', line: 1
+'\ufeff[InternetShortcut]\n'
+2026-03-28 20:05:57,819 [INFO] [MainThread] [root/service.py:210]: Quick Launch rebuilding app list after install/uninstall detected
+2026-03-28 20:06:04,573 [DEBUG] [Dummy-31] [root/icon_extractor.py:318]: URL icon resolve failed for C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Terraria [GOG.com]\Documents\Support.url: File contains no section headers.
+file: 'C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Terraria [GOG.com]\\Documents\\Support.url', line: 1
+'\ufeff[InternetShortcut]\n'
+2026-03-28 20:14:22,859 [INFO] [MainThread] [root/service.py:210]: Quick Launch rebuilding app list after install/uninstall detected
+2026-03-28 20:14:40,595 [DEBUG] [Dummy-35] [root/icon_extractor.py:318]: URL icon resolve failed for C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Terraria [GOG.com]\Documents\Support.url: File contains no section headers.
+file: 'C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Terraria [GOG.com]\\Documents\\Support.url', line: 1
+'\ufeff[InternetShortcut]\n'
+2026-03-28 20:19:44,713 [INFO] [MainThread] [root/service.py:210]: Quick Launch rebuilding app list after install/uninstall detected
+2026-03-28 20:19:50,129 [DEBUG] [Dummy-39] [root/icon_extractor.py:318]: URL icon resolve failed for C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Terraria [GOG.com]\Documents\Support.url: File contains no section headers.
+file: 'C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Terraria [GOG.com]\\Documents\\Support.url', line: 1
+'\ufeff[InternetShortcut]\n'
+2026-03-28 21:19:57,391 [INFO] [MainThread] [root/service.py:210]: Quick Launch rebuilding app list after install/uninstall detected
+2026-03-28 21:20:03,027 [DEBUG] [Dummy-47] [root/icon_extractor.py:318]: URL icon resolve failed for C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Terraria [GOG.com]\Documents\Support.url: File contains no section headers.
+file: 'C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Terraria [GOG.com]\\Documents\\Support.url', line: 1
+'\ufeff[InternetShortcut]\n'
+2026-03-28 22:35:41,151 [INFO] [MainThread] [root/service.py:210]: Quick Launch rebuilding app list after install/uninstall detected
+2026-03-28 22:35:45,336 [DEBUG] [Dummy-54] [root/icon_extractor.py:318]: URL icon resolve failed for C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Terraria [GOG.com]\Documents\Support.url: File contains no section headers.
+file: 'C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Terraria [GOG.com]\\Documents\\Support.url', line: 1
+'\ufeff[InternetShortcut]\n'
+2026-03-28 22:37:06,368 [INFO] [MainThread] [root/controller.py:43]: Exiting Application...
+2026-03-28 22:37:06,484 [INFO] [MainThread] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-03-28 22:37:06,485 [DEBUG] [MainThread] [cli_server/cli_server.py:209]: CLI server stopped
+2026-03-28 22:37:07,234 [INFO] [MainThread] [root/bar_manager.py:103]: Stopping HotkeyListener...
+2026-03-28 22:37:07,237 [INFO] [MainThread] [root/bar_manager.py:111]: Stopping KomorebiEventListener...
+2026-03-28 22:37:07,239 [INFO] [MainThread] [core.utils.widgets.taskbar.window_manager/window_manager.py:219]: TaskbarWindowManager stopped
+2026-03-30 17:54:10,440 [INFO] [MainThread] [root/log.py:99]: YASB v1.9.1
+2026-03-30 17:54:10,441 [INFO] [CLIPipeServer] [cli_server/cli_server.py:215]: CLI server started v1.1.6
+2026-03-30 17:54:10,442 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-03-30 17:54:11,485 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-03-30 17:54:12,954 [INFO] [MainThread] [core.utils.widgets.taskbar.window_manager/window_manager.py:192]: TaskbarWindowManager is starting...
+2026-03-30 17:54:12,960 [INFO] [MainThread] [root/bar_manager.py:219]: Starting HotkeyListener...
+2026-03-30 17:54:12,960 [INFO] [MainThread] [root/bar_manager.py:95]: Starting KomorebiEventListener...
+2026-03-30 17:54:12,961 [INFO] [Dummy-7] [root/event_listener.py:55]: Created named pipe yasb-67efcd7d-2c1e-11f1-b42f-d7b1cc8c7fc0
+2026-03-30 17:54:12,962 [DEBUG] [Dummy-9] [root/hotkeys.py:200]: Registered hotkey ctrl+alt+d
+2026-03-30 17:54:12,962 [DEBUG] [Dummy-9] [root/hotkeys.py:200]: Registered hotkey ctrl+alt+w
+2026-03-30 17:54:12,962 [WARNING] [Dummy-9] [root/hotkeys.py:202]: Failed to register hotkey win+q - it may be in use by another application.
+2026-03-30 17:54:12,962 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\acer\.config\yasb
+2026-03-30 17:54:12,963 [DEBUG] [Dummy-9] [root/hotkeys.py:200]: Registered hotkey alt+space
+2026-03-30 17:54:12,963 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\acer\.cache\wal
+2026-03-30 17:54:12,963 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-03-30 17:54:13,446 [INFO] [MainThread] [root/update_service.py:429]: Background update checker started
+2026-03-30 17:54:18,527 [INFO] [Dummy-7] [root/event_listener.py:149]: Komorebi connected to named pipe: yasb-67efcd7d-2c1e-11f1-b42f-d7b1cc8c7fc0
+2026-03-30 17:54:18,559 [DEBUG] [Dummy-18] [root/icon_extractor.py:318]: URL icon resolve failed for C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Terraria [GOG.com]\Documents\Support.url: File contains no section headers.
+file: 'C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Terraria [GOG.com]\\Documents\\Support.url', line: 1
+'\ufeff[InternetShortcut]\n'
+2026-03-30 17:55:17,897 [INFO] [MainThread] [root/service.py:210]: Quick Launch rebuilding app list after install/uninstall detected
+2026-03-30 17:55:23,331 [DEBUG] [Dummy-23] [root/icon_extractor.py:318]: URL icon resolve failed for C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Terraria [GOG.com]\Documents\Support.url: File contains no section headers.
+file: 'C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Terraria [GOG.com]\\Documents\\Support.url', line: 1
+'\ufeff[InternetShortcut]\n'
+2026-03-30 18:36:44,076 [INFO] [MainThread] [root/service.py:210]: Quick Launch rebuilding app list after install/uninstall detected
+2026-03-30 18:37:03,097 [DEBUG] [Dummy-29] [root/icon_extractor.py:318]: URL icon resolve failed for C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Terraria [GOG.com]\Documents\Support.url: File contains no section headers.
+file: 'C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Terraria [GOG.com]\\Documents\\Support.url', line: 1
+'\ufeff[InternetShortcut]\n'
+2026-03-30 18:39:22,149 [INFO] [MainThread] [root/controller.py:43]: Exiting Application...
+2026-03-30 18:39:22,264 [INFO] [MainThread] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-03-30 18:39:22,265 [DEBUG] [MainThread] [cli_server/cli_server.py:209]: CLI server stopped
+2026-03-30 18:39:24,272 [INFO] [MainThread] [root/bar_manager.py:103]: Stopping HotkeyListener...
+2026-03-30 18:39:24,274 [INFO] [MainThread] [root/bar_manager.py:111]: Stopping KomorebiEventListener...
+2026-03-30 18:39:24,275 [INFO] [MainThread] [core.utils.widgets.taskbar.window_manager/window_manager.py:219]: TaskbarWindowManager stopped
+2026-03-30 21:36:05,870 [INFO] [MainThread] [root/log.py:99]: YASB v1.9.1
+2026-03-30 21:36:05,872 [INFO] [CLIPipeServer] [cli_server/cli_server.py:215]: CLI server started v1.1.6
+2026-03-30 21:36:05,872 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-03-30 21:36:07,275 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-03-30 21:36:08,826 [INFO] [MainThread] [core.utils.widgets.taskbar.window_manager/window_manager.py:192]: TaskbarWindowManager is starting...
+2026-03-30 21:36:08,840 [INFO] [MainThread] [root/bar_manager.py:219]: Starting HotkeyListener...
+2026-03-30 21:36:08,840 [INFO] [MainThread] [root/bar_manager.py:95]: Starting KomorebiEventListener...
+2026-03-30 21:36:08,845 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\acer\.config\yasb
+2026-03-30 21:36:08,846 [DEBUG] [Dummy-9] [root/hotkeys.py:200]: Registered hotkey ctrl+alt+d
+2026-03-30 21:36:08,847 [DEBUG] [Dummy-9] [root/hotkeys.py:200]: Registered hotkey ctrl+alt+w
+2026-03-30 21:36:08,847 [WARNING] [Dummy-9] [root/hotkeys.py:202]: Failed to register hotkey win+q - it may be in use by another application.
+2026-03-30 21:36:08,847 [DEBUG] [Dummy-9] [root/hotkeys.py:200]: Registered hotkey alt+space
+2026-03-30 21:36:08,848 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\acer\.cache\wal
+2026-03-30 21:36:08,848 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-03-30 21:36:08,912 [INFO] [Dummy-11] [root/event_listener.py:55]: Created named pipe yasb-68d1dc4a-2c3d-11f1-a1f9-af2207c307d9
+2026-03-30 21:36:09,556 [INFO] [MainThread] [root/update_service.py:429]: Background update checker started
+2026-03-30 21:36:16,484 [DEBUG] [Dummy-19] [root/icon_extractor.py:318]: URL icon resolve failed for C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Terraria [GOG.com]\Documents\Support.url: File contains no section headers.
+file: 'C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Terraria [GOG.com]\\Documents\\Support.url', line: 1
+'\ufeff[InternetShortcut]\n'
+2026-03-30 21:36:19,740 [INFO] [Dummy-11] [root/event_listener.py:149]: Komorebi connected to named pipe: yasb-68d1dc4a-2c3d-11f1-a1f9-af2207c307d9
+2026-03-30 21:57:14,127 [INFO] [MainThread] [root/service.py:210]: Quick Launch rebuilding app list after install/uninstall detected
+2026-03-30 21:57:25,797 [DEBUG] [Dummy-30] [root/icon_extractor.py:318]: URL icon resolve failed for C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Terraria [GOG.com]\Documents\Support.url: File contains no section headers.
+file: 'C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Terraria [GOG.com]\\Documents\\Support.url', line: 1
+'\ufeff[InternetShortcut]\n'
+2026-03-30 22:09:35,484 [INFO] [MainThread] [root/service.py:210]: Quick Launch rebuilding app list after install/uninstall detected
+2026-03-30 22:09:41,343 [DEBUG] [Dummy-35] [root/icon_extractor.py:318]: URL icon resolve failed for C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Terraria [GOG.com]\Documents\Support.url: File contains no section headers.
+file: 'C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Terraria [GOG.com]\\Documents\\Support.url', line: 1
+'\ufeff[InternetShortcut]\n'
+2026-03-30 22:10:11,367 [INFO] [MainThread] [root/service.py:210]: Quick Launch rebuilding app list after install/uninstall detected
+2026-03-30 22:10:16,432 [DEBUG] [Dummy-39] [root/icon_extractor.py:318]: URL icon resolve failed for C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Terraria [GOG.com]\Documents\Support.url: File contains no section headers.
+file: 'C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Terraria [GOG.com]\\Documents\\Support.url', line: 1
+'\ufeff[InternetShortcut]\n'
+2026-03-30 22:43:04,602 [INFO] [MainThread] [root/service.py:210]: Quick Launch rebuilding app list after install/uninstall detected
+2026-03-30 22:43:11,252 [DEBUG] [Dummy-43] [root/icon_extractor.py:318]: URL icon resolve failed for C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Terraria [GOG.com]\Documents\Support.url: File contains no section headers.
+file: 'C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Terraria [GOG.com]\\Documents\\Support.url', line: 1
+'\ufeff[InternetShortcut]\n'
+2026-03-30 23:04:23,054 [INFO] [MainThread] [root/service.py:210]: Quick Launch rebuilding app list after install/uninstall detected
+2026-03-30 23:04:31,536 [INFO] [MainThread] [root/service.py:210]: Quick Launch rebuilding app list after install/uninstall detected
+2026-03-30 23:04:40,937 [DEBUG] [Dummy-51] [root/icon_extractor.py:318]: URL icon resolve failed for C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Terraria [GOG.com]\Documents\Support.url: File contains no section headers.
+file: 'C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Terraria [GOG.com]\\Documents\\Support.url', line: 1
+'\ufeff[InternetShortcut]\n'
+2026-03-31 00:12:28,445 [INFO] [MainThread] [root/controller.py:43]: Exiting Application...
+2026-03-31 00:12:28,557 [INFO] [MainThread] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-03-31 00:12:28,557 [DEBUG] [MainThread] [cli_server/cli_server.py:209]: CLI server stopped
+2026-03-31 00:12:28,643 [INFO] [MainThread] [root/bar_manager.py:103]: Stopping HotkeyListener...
+2026-03-31 00:12:28,645 [INFO] [MainThread] [root/bar_manager.py:111]: Stopping KomorebiEventListener...
+2026-03-31 00:12:28,646 [INFO] [MainThread] [core.utils.widgets.taskbar.window_manager/window_manager.py:219]: TaskbarWindowManager stopped
+2026-03-31 20:05:00,997 [INFO] [MainThread] [root/log.py:99]: YASB v1.9.1
+2026-03-31 20:05:00,999 [INFO] [CLIPipeServer] [cli_server/cli_server.py:215]: CLI server started v1.1.6
+2026-03-31 20:05:00,999 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-03-31 20:05:01,965 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-03-31 20:05:02,951 [INFO] [MainThread] [core.utils.widgets.taskbar.window_manager/window_manager.py:192]: TaskbarWindowManager is starting...
+2026-03-31 20:05:02,959 [INFO] [MainThread] [root/bar_manager.py:219]: Starting HotkeyListener...
+2026-03-31 20:05:02,960 [INFO] [MainThread] [root/bar_manager.py:95]: Starting KomorebiEventListener...
+2026-03-31 20:05:02,963 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\acer\.cache\wal
+2026-03-31 20:05:02,963 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\acer\.config\yasb
+2026-03-31 20:05:02,963 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-03-31 20:05:02,963 [INFO] [Dummy-10] [root/event_listener.py:55]: Created named pipe yasb-d9506fc0-2cf9-11f1-a433-fecaaa46e287
+2026-03-31 20:05:02,964 [DEBUG] [Dummy-11] [root/hotkeys.py:200]: Registered hotkey ctrl+alt+d
+2026-03-31 20:05:02,965 [DEBUG] [Dummy-11] [root/hotkeys.py:200]: Registered hotkey ctrl+alt+w
+2026-03-31 20:05:02,965 [WARNING] [Dummy-11] [root/hotkeys.py:202]: Failed to register hotkey win+q - it may be in use by another application.
+2026-03-31 20:05:02,965 [DEBUG] [Dummy-11] [root/hotkeys.py:200]: Registered hotkey alt+space
+2026-03-31 20:05:03,507 [INFO] [MainThread] [root/update_service.py:429]: Background update checker started
+2026-03-31 20:05:08,570 [INFO] [Dummy-10] [root/event_listener.py:149]: Komorebi connected to named pipe: yasb-d9506fc0-2cf9-11f1-a433-fecaaa46e287
+2026-03-31 20:05:09,112 [DEBUG] [Dummy-18] [root/icon_extractor.py:318]: URL icon resolve failed for C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Terraria [GOG.com]\Documents\Support.url: File contains no section headers.
+file: 'C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Terraria [GOG.com]\\Documents\\Support.url', line: 1
+'\ufeff[InternetShortcut]\n'
+2026-03-31 21:21:48,802 [INFO] [MainThread] [root/service.py:210]: Quick Launch rebuilding app list after install/uninstall detected
+2026-03-31 21:21:59,922 [DEBUG] [Dummy-25] [root/icon_extractor.py:318]: URL icon resolve failed for C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Terraria [GOG.com]\Documents\Support.url: File contains no section headers.
+file: 'C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Terraria [GOG.com]\\Documents\\Support.url', line: 1
+'\ufeff[InternetShortcut]\n'
+2026-03-31 22:28:21,314 [INFO] [MainThread] [root/service.py:210]: Quick Launch rebuilding app list after install/uninstall detected
+2026-03-31 22:28:27,314 [DEBUG] [Dummy-29] [root/icon_extractor.py:318]: URL icon resolve failed for C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Terraria [GOG.com]\Documents\Support.url: File contains no section headers.
+file: 'C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Terraria [GOG.com]\\Documents\\Support.url', line: 1
+'\ufeff[InternetShortcut]\n'
+2026-03-31 23:42:51,891 [INFO] [MainThread] [root/service.py:210]: Quick Launch rebuilding app list after install/uninstall detected
+2026-03-31 23:42:57,035 [DEBUG] [Dummy-34] [root/icon_extractor.py:318]: URL icon resolve failed for C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Terraria [GOG.com]\Documents\Support.url: File contains no section headers.
+file: 'C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Terraria [GOG.com]\\Documents\\Support.url', line: 1
+'\ufeff[InternetShortcut]\n'
+2026-03-31 23:47:36,962 [INFO] [MainThread] [root/controller.py:43]: Exiting Application...
+2026-03-31 23:47:37,075 [INFO] [MainThread] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-03-31 23:47:37,076 [DEBUG] [MainThread] [cli_server/cli_server.py:209]: CLI server stopped
+2026-03-31 23:47:37,173 [INFO] [MainThread] [root/bar_manager.py:103]: Stopping HotkeyListener...
+2026-03-31 23:47:37,176 [INFO] [MainThread] [root/bar_manager.py:111]: Stopping KomorebiEventListener...
+2026-03-31 23:47:37,178 [INFO] [MainThread] [core.utils.widgets.taskbar.window_manager/window_manager.py:219]: TaskbarWindowManager stopped
+2026-04-02 15:02:47,167 [INFO] [MainThread] [root/log.py:99]: YASB v1.9.1
+2026-04-02 15:02:47,168 [INFO] [CLIPipeServer] [cli_server/cli_server.py:215]: CLI server started v1.1.6
+2026-04-02 15:02:47,168 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-04-02 15:02:48,210 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-04-02 15:02:49,593 [INFO] [MainThread] [core.utils.widgets.taskbar.window_manager/window_manager.py:192]: TaskbarWindowManager is starting...
+2026-04-02 15:02:49,598 [INFO] [MainThread] [root/bar_manager.py:219]: Starting HotkeyListener...
+2026-04-02 15:02:49,598 [INFO] [MainThread] [root/bar_manager.py:95]: Starting KomorebiEventListener...
+2026-04-02 15:02:49,599 [INFO] [Dummy-7] [root/event_listener.py:55]: Created named pipe yasb-f5d0936a-2e61-11f1-8d43-ce3aeb09a5b9
+2026-04-02 15:02:49,600 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\acer\.config\yasb
+2026-04-02 15:02:49,601 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\acer\.cache\wal
+2026-04-02 15:02:49,601 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-04-02 15:02:49,601 [DEBUG] [Dummy-11] [root/hotkeys.py:200]: Registered hotkey ctrl+alt+d
+2026-04-02 15:02:49,601 [DEBUG] [Dummy-11] [root/hotkeys.py:200]: Registered hotkey ctrl+alt+w
+2026-04-02 15:02:49,601 [WARNING] [Dummy-11] [root/hotkeys.py:202]: Failed to register hotkey win+q - it may be in use by another application.
+2026-04-02 15:02:49,601 [DEBUG] [Dummy-11] [root/hotkeys.py:200]: Registered hotkey alt+space
+2026-04-02 15:02:50,057 [INFO] [MainThread] [root/update_service.py:429]: Background update checker started
+2026-04-02 15:02:55,133 [INFO] [Dummy-7] [root/event_listener.py:149]: Komorebi connected to named pipe: yasb-f5d0936a-2e61-11f1-8d43-ce3aeb09a5b9
+2026-04-02 15:02:55,428 [DEBUG] [Dummy-18] [root/icon_extractor.py:318]: URL icon resolve failed for C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Terraria [GOG.com]\Documents\Support.url: File contains no section headers.
+file: 'C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Terraria [GOG.com]\\Documents\\Support.url', line: 1
+'\ufeff[InternetShortcut]\n'
+2026-04-02 15:06:05,900 [INFO] [MainThread] [root/service.py:210]: Quick Launch rebuilding app list after install/uninstall detected
+2026-04-02 15:06:09,180 [DEBUG] [Dummy-23] [root/icon_extractor.py:318]: URL icon resolve failed for C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Terraria [GOG.com]\Documents\Support.url: File contains no section headers.
+file: 'C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Terraria [GOG.com]\\Documents\\Support.url', line: 1
+'\ufeff[InternetShortcut]\n'
+2026-04-02 15:06:59,552 [INFO] [MainThread] [root/service.py:210]: Quick Launch rebuilding app list after install/uninstall detected
+2026-04-02 15:07:02,595 [DEBUG] [Dummy-28] [root/icon_extractor.py:318]: URL icon resolve failed for C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Terraria [GOG.com]\Documents\Support.url: File contains no section headers.
+file: 'C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Terraria [GOG.com]\\Documents\\Support.url', line: 1
+'\ufeff[InternetShortcut]\n'
+2026-04-02 15:08:27,988 [INFO] [MainThread] [root/service.py:210]: Quick Launch rebuilding app list after install/uninstall detected
+2026-04-02 15:08:30,998 [DEBUG] [Dummy-32] [root/icon_extractor.py:318]: URL icon resolve failed for C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Terraria [GOG.com]\Documents\Support.url: File contains no section headers.
+file: 'C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Terraria [GOG.com]\\Documents\\Support.url', line: 1
+'\ufeff[InternetShortcut]\n'
+2026-04-02 15:19:10,026 [INFO] [MainThread] [root/service.py:210]: Quick Launch rebuilding app list after install/uninstall detected
+2026-04-02 15:19:19,165 [DEBUG] [Dummy-37] [root/icon_extractor.py:318]: URL icon resolve failed for C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Terraria [GOG.com]\Documents\Support.url: File contains no section headers.
+file: 'C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Terraria [GOG.com]\\Documents\\Support.url', line: 1
+'\ufeff[InternetShortcut]\n'
+2026-04-02 15:30:46,304 [INFO] [MainThread] [root/controller.py:43]: Exiting Application...
+2026-04-02 15:30:46,407 [INFO] [MainThread] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-04-02 15:30:46,407 [DEBUG] [MainThread] [cli_server/cli_server.py:209]: CLI server stopped
+2026-04-02 15:30:48,446 [INFO] [MainThread] [root/bar_manager.py:103]: Stopping HotkeyListener...
+2026-04-02 15:30:48,448 [INFO] [MainThread] [root/bar_manager.py:111]: Stopping KomorebiEventListener...
+2026-04-02 15:30:48,449 [INFO] [MainThread] [core.utils.widgets.taskbar.window_manager/window_manager.py:219]: TaskbarWindowManager stopped
+2026-04-02 15:32:25,780 [INFO] [MainThread] [root/log.py:99]: YASB v1.9.1
+2026-04-02 15:32:25,782 [INFO] [CLIPipeServer] [cli_server/cli_server.py:215]: CLI server started v1.1.6
+2026-04-02 15:32:25,782 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-04-02 15:32:26,719 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-04-02 15:32:28,109 [INFO] [MainThread] [core.utils.widgets.taskbar.window_manager/window_manager.py:192]: TaskbarWindowManager is starting...
+2026-04-02 15:32:28,114 [INFO] [MainThread] [root/bar_manager.py:219]: Starting HotkeyListener...
+2026-04-02 15:32:28,114 [INFO] [MainThread] [root/bar_manager.py:95]: Starting KomorebiEventListener...
+2026-04-02 15:32:28,115 [INFO] [Dummy-7] [root/event_listener.py:55]: Created named pipe yasb-19e48c0e-2e66-11f1-af52-bed9eb587b61
+2026-04-02 15:32:28,116 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\acer\.cache\wal
+2026-04-02 15:32:28,116 [DEBUG] [Dummy-10] [root/hotkeys.py:200]: Registered hotkey ctrl+alt+d
+2026-04-02 15:32:28,116 [DEBUG] [Dummy-10] [root/hotkeys.py:200]: Registered hotkey ctrl+alt+w
+2026-04-02 15:32:28,116 [WARNING] [Dummy-10] [root/hotkeys.py:202]: Failed to register hotkey win+q - it may be in use by another application.
+2026-04-02 15:32:28,116 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\acer\.config\yasb
+2026-04-02 15:32:28,116 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-04-02 15:32:28,116 [DEBUG] [Dummy-10] [root/hotkeys.py:200]: Registered hotkey alt+space
+2026-04-02 15:32:28,559 [INFO] [MainThread] [root/update_service.py:429]: Background update checker started
+2026-04-02 15:32:33,647 [INFO] [Dummy-7] [root/event_listener.py:149]: Komorebi connected to named pipe: yasb-19e48c0e-2e66-11f1-af52-bed9eb587b61
+2026-04-02 15:32:33,678 [DEBUG] [Dummy-18] [root/icon_extractor.py:318]: URL icon resolve failed for C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Terraria [GOG.com]\Documents\Support.url: File contains no section headers.
+file: 'C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Terraria [GOG.com]\\Documents\\Support.url', line: 1
+'\ufeff[InternetShortcut]\n'
+2026-04-02 15:33:37,412 [DEBUG] [Thread-8] [root/watcher.py:84]: Stylesheet modified: c:\users\acer\.config\yasb\styles.css
+2026-04-02 15:33:37,414 [DEBUG] [Thread-8] [root/watcher.py:97]: Imported stylesheet modified: c:\users\acer\.cache\wal\colors.css
+2026-04-02 15:33:49,444 [DEBUG] [Thread-8] [root/watcher.py:97]: Imported stylesheet modified: c:\users\acer\.cache\wal\colors.css
+2026-04-02 15:36:38,530 [DEBUG] [Thread-8] [root/watcher.py:90]: Config file modified: c:\users\acer\.config\yasb\config.yaml
+2026-04-02 15:36:38,590 [INFO] [MainThread] [root/controller.py:21]: Reloading Application because of config change.
+2026-04-02 15:36:38,700 [INFO] [MainThread] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-04-02 15:36:38,701 [DEBUG] [MainThread] [cli_server/cli_server.py:209]: CLI server stopped
+2026-04-02 15:36:38,709 [INFO] [MainThread] [root/bar_manager.py:85]: Successfully loaded updated config and re-initialised all bars.
+2026-04-02 15:36:40,763 [INFO] [MainThread] [root/bar_manager.py:103]: Stopping HotkeyListener...
+2026-04-02 15:36:40,766 [INFO] [MainThread] [root/bar_manager.py:111]: Stopping KomorebiEventListener...
+2026-04-02 15:36:40,768 [INFO] [MainThread] [core.utils.widgets.taskbar.window_manager/window_manager.py:219]: TaskbarWindowManager stopped
+2026-04-02 15:36:41,700 [INFO] [MainThread] [root/log.py:99]: YASB v1.9.1
+2026-04-02 15:36:41,701 [INFO] [CLIPipeServer] [cli_server/cli_server.py:215]: CLI server started v1.1.6
+2026-04-02 15:36:41,701 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-04-02 15:36:42,751 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-04-02 15:36:44,396 [INFO] [MainThread] [core.utils.widgets.taskbar.window_manager/window_manager.py:192]: TaskbarWindowManager is starting...
+2026-04-02 15:36:44,402 [INFO] [MainThread] [root/bar_manager.py:219]: Starting HotkeyListener...
+2026-04-02 15:36:44,403 [INFO] [MainThread] [root/bar_manager.py:95]: Starting KomorebiEventListener...
+2026-04-02 15:36:44,405 [INFO] [Dummy-7] [root/event_listener.py:55]: Created named pipe yasb-b2a719bc-2e66-11f1-9541-bed9eb587b61
+2026-04-02 15:36:44,407 [DEBUG] [Dummy-9] [root/hotkeys.py:200]: Registered hotkey ctrl+alt+d
+2026-04-02 15:36:44,407 [DEBUG] [Dummy-9] [root/hotkeys.py:200]: Registered hotkey ctrl+alt+w
+2026-04-02 15:36:44,407 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\acer\.config\yasb
+2026-04-02 15:36:44,408 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\acer\.cache\wal
+2026-04-02 15:36:44,408 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-04-02 15:36:44,409 [WARNING] [Dummy-9] [root/hotkeys.py:202]: Failed to register hotkey win+q - it may be in use by another application.
+2026-04-02 15:36:44,409 [DEBUG] [Dummy-9] [root/hotkeys.py:200]: Registered hotkey alt+space
+2026-04-02 15:36:44,529 [INFO] [MainThread] [root/update_service.py:429]: Background update checker started
+2026-04-02 15:36:44,743 [INFO] [Dummy-7] [root/event_listener.py:149]: Komorebi connected to named pipe: yasb-b2a719bc-2e66-11f1-9541-bed9eb587b61
+2026-04-02 15:36:47,325 [DEBUG] [Dummy-16] [root/icon_extractor.py:318]: URL icon resolve failed for C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Terraria [GOG.com]\Documents\Support.url: File contains no section headers.
+file: 'C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Terraria [GOG.com]\\Documents\\Support.url', line: 1
+'\ufeff[InternetShortcut]\n'
+2026-04-02 15:36:53,015 [DEBUG] [Thread-8] [root/watcher.py:90]: Config file modified: c:\users\acer\.config\yasb\config.yaml
+2026-04-02 15:36:53,065 [INFO] [MainThread] [root/controller.py:21]: Reloading Application because of config change.
+2026-04-02 15:36:53,176 [INFO] [MainThread] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-04-02 15:36:53,177 [DEBUG] [MainThread] [cli_server/cli_server.py:209]: CLI server stopped
+2026-04-02 15:36:53,183 [INFO] [MainThread] [root/bar_manager.py:85]: Successfully loaded updated config and re-initialised all bars.
+2026-04-02 15:36:53,987 [INFO] [MainThread] [root/bar_manager.py:103]: Stopping HotkeyListener...
+2026-04-02 15:36:53,991 [INFO] [MainThread] [root/bar_manager.py:111]: Stopping KomorebiEventListener...
+2026-04-02 15:36:53,994 [INFO] [MainThread] [core.utils.widgets.taskbar.window_manager/window_manager.py:219]: TaskbarWindowManager stopped
+2026-04-02 15:36:54,672 [INFO] [MainThread] [root/log.py:99]: YASB v1.9.1
+2026-04-02 15:36:54,673 [INFO] [CLIPipeServer] [cli_server/cli_server.py:215]: CLI server started v1.1.6
+2026-04-02 15:36:54,673 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-04-02 15:36:55,175 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-04-02 15:36:56,534 [INFO] [MainThread] [core.utils.widgets.taskbar.window_manager/window_manager.py:192]: TaskbarWindowManager is starting...
+2026-04-02 15:36:56,541 [INFO] [MainThread] [root/bar_manager.py:219]: Starting HotkeyListener...
+2026-04-02 15:36:56,541 [INFO] [MainThread] [root/bar_manager.py:95]: Starting KomorebiEventListener...
+2026-04-02 15:36:56,543 [INFO] [Dummy-7] [root/event_listener.py:55]: Created named pipe yasb-b9e34161-2e66-11f1-9e72-bed9eb587b61
+2026-04-02 15:36:56,546 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\acer\.config\yasb
+2026-04-02 15:36:56,546 [DEBUG] [Dummy-10] [root/hotkeys.py:200]: Registered hotkey ctrl+alt+d
+2026-04-02 15:36:56,546 [DEBUG] [Dummy-10] [root/hotkeys.py:200]: Registered hotkey ctrl+alt+w
+2026-04-02 15:36:56,547 [WARNING] [Dummy-10] [root/hotkeys.py:202]: Failed to register hotkey win+q - it may be in use by another application.
+2026-04-02 15:36:56,547 [DEBUG] [Dummy-10] [root/hotkeys.py:200]: Registered hotkey alt+space
+2026-04-02 15:36:56,546 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\acer\.cache\wal
+2026-04-02 15:36:56,547 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-04-02 15:36:56,649 [INFO] [MainThread] [root/update_service.py:429]: Background update checker started
+2026-04-02 15:36:56,742 [INFO] [Dummy-7] [root/event_listener.py:149]: Komorebi connected to named pipe: yasb-b9e34161-2e66-11f1-9e72-bed9eb587b61
+2026-04-02 15:37:00,005 [DEBUG] [Dummy-16] [root/icon_extractor.py:318]: URL icon resolve failed for C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Terraria [GOG.com]\Documents\Support.url: File contains no section headers.
+file: 'C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Terraria [GOG.com]\\Documents\\Support.url', line: 1
+'\ufeff[InternetShortcut]\n'
+2026-04-02 15:38:03,162 [INFO] [MainThread] [root/service.py:210]: Quick Launch rebuilding app list after install/uninstall detected
+2026-04-02 15:38:06,356 [DEBUG] [Dummy-21] [root/icon_extractor.py:318]: URL icon resolve failed for C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Terraria [GOG.com]\Documents\Support.url: File contains no section headers.
+file: 'C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Terraria [GOG.com]\\Documents\\Support.url', line: 1
+'\ufeff[InternetShortcut]\n'
+2026-04-02 15:49:11,428 [INFO] [MainThread] [root/service.py:210]: Quick Launch rebuilding app list after install/uninstall detected
+2026-04-02 15:49:15,426 [DEBUG] [Dummy-31] [root/icon_extractor.py:318]: URL icon resolve failed for C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Terraria [GOG.com]\Documents\Support.url: File contains no section headers.
+file: 'C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Terraria [GOG.com]\\Documents\\Support.url', line: 1
+'\ufeff[InternetShortcut]\n'
+2026-04-02 18:13:56,366 [INFO] [MainThread] [root/bar.py:149]: Screen geometry changed. Updating position for bar primary-bar on screen \\.\DISPLAY1
+2026-04-02 18:13:56,894 [INFO] [MainThread] [root/bar.py:149]: Screen geometry changed. Updating position for bar primary-bar on screen \\.\DISPLAY1
+2026-04-02 18:28:38,511 [INFO] [MainThread] [root/bar.py:149]: Screen geometry changed. Updating position for bar primary-bar on screen \\.\DISPLAY1
+2026-04-02 18:28:39,051 [INFO] [MainThread] [root/bar.py:149]: Screen geometry changed. Updating position for bar primary-bar on screen \\.\DISPLAY1
+2026-04-02 18:34:49,224 [INFO] [Dummy-35] [root/file_search.py:170]: Everything SDK loaded: C:\Program Files\YASB\lib\Everything64.dll
+2026-04-02 18:34:49,225 [INFO] [Dummy-35] [root/file_search.py:646]: File search: using Everything backend
+2026-04-02 18:36:01,774 [INFO] [MainThread] [root/bar.py:149]: Screen geometry changed. Updating position for bar primary-bar on screen \\.\DISPLAY1
+2026-04-02 18:36:02,339 [INFO] [MainThread] [root/bar.py:149]: Screen geometry changed. Updating position for bar primary-bar on screen \\.\DISPLAY1
+2026-04-02 18:39:51,560 [DEBUG] [Thread-8] [root/watcher.py:90]: Config file modified: c:\users\acer\.config\yasb\config.yaml
+2026-04-02 18:39:51,627 [INFO] [MainThread] [root/controller.py:21]: Reloading Application because of config change.
+2026-04-02 18:39:51,736 [INFO] [MainThread] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-04-02 18:39:51,736 [DEBUG] [MainThread] [cli_server/cli_server.py:209]: CLI server stopped
+2026-04-02 18:39:51,756 [INFO] [MainThread] [root/bar_manager.py:85]: Successfully loaded updated config and re-initialised all bars.
+2026-04-02 18:39:53,854 [INFO] [MainThread] [root/bar_manager.py:103]: Stopping HotkeyListener...
+2026-04-02 18:39:53,859 [INFO] [MainThread] [root/bar_manager.py:111]: Stopping KomorebiEventListener...
+2026-04-02 18:39:53,863 [INFO] [MainThread] [core.utils.widgets.taskbar.window_manager/window_manager.py:219]: TaskbarWindowManager stopped
+2026-04-02 18:39:54,799 [INFO] [MainThread] [root/log.py:99]: YASB v1.9.1
+2026-04-02 18:39:54,800 [INFO] [CLIPipeServer] [cli_server/cli_server.py:215]: CLI server started v1.1.6
+2026-04-02 18:39:54,800 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-04-02 18:39:55,676 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-04-02 18:39:57,810 [INFO] [MainThread] [core.utils.widgets.taskbar.window_manager/window_manager.py:192]: TaskbarWindowManager is starting...
+2026-04-02 18:39:57,817 [INFO] [MainThread] [root/bar_manager.py:219]: Starting HotkeyListener...
+2026-04-02 18:39:57,817 [INFO] [MainThread] [root/bar_manager.py:95]: Starting KomorebiEventListener...
+2026-04-02 18:39:57,819 [INFO] [Dummy-7] [root/event_listener.py:55]: Created named pipe yasb-4b3cfe19-2e80-11f1-980e-bed9eb587b61
+2026-04-02 18:39:57,820 [DEBUG] [Dummy-9] [root/hotkeys.py:200]: Registered hotkey ctrl+alt+d
+2026-04-02 18:39:57,821 [DEBUG] [Dummy-9] [root/hotkeys.py:200]: Registered hotkey ctrl+alt+w
+2026-04-02 18:39:57,821 [WARNING] [Dummy-9] [root/hotkeys.py:202]: Failed to register hotkey win+q - it may be in use by another application.
+2026-04-02 18:39:57,820 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\acer\.config\yasb
+2026-04-02 18:39:57,822 [DEBUG] [Dummy-9] [root/hotkeys.py:200]: Registered hotkey alt+space
+2026-04-02 18:39:57,822 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\acer\.cache\wal
+2026-04-02 18:39:57,822 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-04-02 18:39:57,984 [INFO] [MainThread] [root/update_service.py:429]: Background update checker started
+2026-04-02 18:39:58,299 [INFO] [Dummy-7] [root/event_listener.py:149]: Komorebi connected to named pipe: yasb-4b3cfe19-2e80-11f1-980e-bed9eb587b61
+2026-04-02 18:40:02,330 [DEBUG] [Dummy-16] [root/icon_extractor.py:318]: URL icon resolve failed for C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Terraria [GOG.com]\Documents\Support.url: File contains no section headers.
+file: 'C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Terraria [GOG.com]\\Documents\\Support.url', line: 1
+'\ufeff[InternetShortcut]\n'
+2026-04-02 18:40:11,740 [INFO] [Dummy-18] [root/file_search.py:170]: Everything SDK loaded: C:\Program Files\YASB\lib\Everything64.dll
+2026-04-02 18:40:11,740 [INFO] [Dummy-18] [root/file_search.py:646]: File search: using Everything backend
+2026-04-02 18:50:21,293 [INFO] [MainThread] [root/controller.py:43]: Exiting Application...
+2026-04-02 18:50:21,398 [INFO] [MainThread] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-04-02 18:50:21,398 [DEBUG] [MainThread] [cli_server/cli_server.py:209]: CLI server stopped
+2026-04-02 18:50:23,507 [INFO] [MainThread] [root/bar_manager.py:103]: Stopping HotkeyListener...
+2026-04-02 18:50:23,509 [INFO] [MainThread] [root/bar_manager.py:111]: Stopping KomorebiEventListener...
+2026-04-02 18:50:23,511 [INFO] [MainThread] [core.utils.widgets.taskbar.window_manager/window_manager.py:219]: TaskbarWindowManager stopped
+2026-04-02 19:11:48,229 [INFO] [MainThread] [root/log.py:99]: YASB v1.9.1
+2026-04-02 19:11:48,231 [INFO] [CLIPipeServer] [cli_server/cli_server.py:215]: CLI server started v1.1.6
+2026-04-02 19:11:48,231 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-04-02 19:11:49,185 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-04-02 19:11:50,505 [INFO] [MainThread] [core.utils.widgets.taskbar.window_manager/window_manager.py:192]: TaskbarWindowManager is starting...
+2026-04-02 19:11:50,522 [INFO] [MainThread] [root/bar_manager.py:219]: Starting HotkeyListener...
+2026-04-02 19:11:50,522 [INFO] [MainThread] [root/bar_manager.py:95]: Starting KomorebiEventListener...
+2026-04-02 19:11:50,524 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\acer\.config\yasb
+2026-04-02 19:11:50,525 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\acer\.cache\wal
+2026-04-02 19:11:50,525 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-04-02 19:11:50,542 [INFO] [Dummy-10] [root/event_listener.py:55]: Created named pipe yasb-bf4cae68-2e84-11f1-af6c-f14482bef554
+2026-04-02 19:11:50,544 [DEBUG] [Dummy-11] [root/hotkeys.py:200]: Registered hotkey ctrl+alt+d
+2026-04-02 19:11:50,544 [DEBUG] [Dummy-11] [root/hotkeys.py:200]: Registered hotkey ctrl+alt+w
+2026-04-02 19:11:50,544 [WARNING] [Dummy-11] [root/hotkeys.py:202]: Failed to register hotkey win+q - it may be in use by another application.
+2026-04-02 19:11:50,544 [DEBUG] [Dummy-11] [root/hotkeys.py:200]: Registered hotkey alt+space
+2026-04-02 19:11:51,029 [INFO] [MainThread] [root/update_service.py:429]: Background update checker started
+2026-04-02 19:11:56,100 [INFO] [Dummy-10] [root/event_listener.py:149]: Komorebi connected to named pipe: yasb-bf4cae68-2e84-11f1-af6c-f14482bef554
+2026-04-02 19:11:56,455 [DEBUG] [Dummy-18] [root/icon_extractor.py:318]: URL icon resolve failed for C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Terraria [GOG.com]\Documents\Support.url: File contains no section headers.
+file: 'C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Terraria [GOG.com]\\Documents\\Support.url', line: 1
+'\ufeff[InternetShortcut]\n'
+2026-04-02 19:16:08,010 [INFO] [MainThread] [root/bar.py:149]: Screen geometry changed. Updating position for bar primary-bar on screen \\.\DISPLAY1
+2026-04-02 19:16:08,767 [INFO] [MainThread] [root/bar.py:149]: Screen geometry changed. Updating position for bar primary-bar on screen \\.\DISPLAY1
+2026-04-02 20:40:39,729 [INFO] [MainThread] [root/service.py:210]: Quick Launch rebuilding app list after install/uninstall detected
+2026-04-02 20:40:52,281 [DEBUG] [Dummy-26] [root/icon_extractor.py:318]: URL icon resolve failed for C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Terraria [GOG.com]\Documents\Support.url: File contains no section headers.
+file: 'C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Terraria [GOG.com]\\Documents\\Support.url', line: 1
+'\ufeff[InternetShortcut]\n'
+2026-04-02 22:11:50,604 [INFO] [MainThread] [root/service.py:210]: Quick Launch rebuilding app list after install/uninstall detected
+2026-04-02 22:11:55,919 [DEBUG] [Dummy-30] [root/icon_extractor.py:318]: URL icon resolve failed for C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Terraria [GOG.com]\Documents\Support.url: File contains no section headers.
+file: 'C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Terraria [GOG.com]\\Documents\\Support.url', line: 1
+'\ufeff[InternetShortcut]\n'
+2026-04-02 22:13:55,974 [INFO] [MainThread] [root/bar.py:149]: Screen geometry changed. Updating position for bar primary-bar on screen \\.\DISPLAY1
+2026-04-02 22:13:56,654 [INFO] [MainThread] [root/bar.py:149]: Screen geometry changed. Updating position for bar primary-bar on screen \\.\DISPLAY1
+2026-04-02 22:47:47,415 [INFO] [MainThread] [root/bar.py:149]: Screen geometry changed. Updating position for bar primary-bar on screen \\.\DISPLAY1
+2026-04-02 22:47:47,958 [INFO] [MainThread] [root/bar.py:149]: Screen geometry changed. Updating position for bar primary-bar on screen \\.\DISPLAY1
+2026-04-02 23:51:19,737 [INFO] [MainThread] [root/controller.py:43]: Exiting Application...
+2026-04-02 23:51:19,840 [INFO] [MainThread] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-04-02 23:51:19,841 [DEBUG] [MainThread] [cli_server/cli_server.py:209]: CLI server stopped
+2026-04-02 23:51:19,966 [INFO] [MainThread] [root/bar_manager.py:103]: Stopping HotkeyListener...
+2026-04-02 23:51:19,969 [INFO] [MainThread] [root/bar_manager.py:111]: Stopping KomorebiEventListener...
+2026-04-02 23:51:19,972 [INFO] [MainThread] [core.utils.widgets.taskbar.window_manager/window_manager.py:219]: TaskbarWindowManager stopped
+2026-04-03 15:19:24,402 [INFO] [MainThread] [root/log.py:99]: YASB v1.9.1
+2026-04-03 15:19:24,403 [INFO] [CLIPipeServer] [cli_server/cli_server.py:215]: CLI server started v1.1.6
+2026-04-03 15:19:24,404 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-04-03 15:19:25,358 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-04-03 15:19:26,801 [INFO] [MainThread] [core.utils.widgets.taskbar.window_manager/window_manager.py:192]: TaskbarWindowManager is starting...
+2026-04-03 15:19:26,808 [INFO] [MainThread] [root/bar_manager.py:219]: Starting HotkeyListener...
+2026-04-03 15:19:26,809 [INFO] [MainThread] [root/bar_manager.py:95]: Starting KomorebiEventListener...
+2026-04-03 15:19:26,809 [INFO] [Dummy-7] [root/event_listener.py:55]: Created named pipe yasb-729c897f-2f2d-11f1-a09a-93e51f2d20b0
+2026-04-03 15:19:26,810 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\acer\.cache\wal
+2026-04-03 15:19:26,810 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\acer\.config\yasb
+2026-04-03 15:19:26,811 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-04-03 15:19:26,811 [DEBUG] [Dummy-11] [root/hotkeys.py:200]: Registered hotkey ctrl+alt+d
+2026-04-03 15:19:26,811 [DEBUG] [Dummy-11] [root/hotkeys.py:200]: Registered hotkey ctrl+alt+w
+2026-04-03 15:19:26,812 [WARNING] [Dummy-11] [root/hotkeys.py:202]: Failed to register hotkey win+q - it may be in use by another application.
+2026-04-03 15:19:26,812 [DEBUG] [Dummy-11] [root/hotkeys.py:200]: Registered hotkey alt+space
+2026-04-03 15:19:27,265 [INFO] [MainThread] [root/update_service.py:429]: Background update checker started
+2026-04-03 15:19:32,994 [DEBUG] [Dummy-16] [root/icon_extractor.py:318]: URL icon resolve failed for C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Terraria [GOG.com]\Documents\Support.url: File contains no section headers.
+file: 'C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Terraria [GOG.com]\\Documents\\Support.url', line: 1
+'\ufeff[InternetShortcut]\n'
+2026-04-03 15:19:37,476 [INFO] [Dummy-7] [root/event_listener.py:149]: Komorebi connected to named pipe: yasb-729c897f-2f2d-11f1-a09a-93e51f2d20b0
+2026-04-03 15:25:52,755 [INFO] [MainThread] [root/service.py:210]: Quick Launch rebuilding app list after install/uninstall detected
+2026-04-03 15:25:56,351 [DEBUG] [Dummy-28] [root/icon_extractor.py:318]: URL icon resolve failed for C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Terraria [GOG.com]\Documents\Support.url: File contains no section headers.
+file: 'C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Terraria [GOG.com]\\Documents\\Support.url', line: 1
+'\ufeff[InternetShortcut]\n'

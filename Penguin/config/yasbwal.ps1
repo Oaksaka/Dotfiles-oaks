@@ -1,0 +1,1 @@
+update-WalTheme -backend haishoku
