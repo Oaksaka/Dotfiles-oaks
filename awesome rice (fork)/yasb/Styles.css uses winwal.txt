@@ -1,0 +1,1 @@
+install winwal or replace the variables
