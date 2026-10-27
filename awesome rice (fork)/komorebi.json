@@ -1,0 +1,98 @@
+{
+  "$schema": "https://raw.githubusercontent.com/LGUG2Z/komorebi/v0.1.41/schema.json",
+  "app_specific_configuration_path": "$Env:USERPROFILE/applications.json",
+  "window_hiding_behaviour": "Cloak",
+  "mouse_follows_focus": false,
+  "global_work_area_offset": {
+    "bottom": 0,
+    "left": 0,
+    "right": 0,
+    "top": 0
+  },
+  "cross_monitor_move_behaviour": "Insert",
+  "default_workspace_padding": 10,
+  "default_container_padding": 5,
+  "border": false,
+  "border_width": 2,
+  "border_offset": 0,
+  "transparency": true,
+  "transparency_alpha": 250,
+  "animation": {
+  "enabled": true,
+  "duration": 100,
+  "fps": 144,
+  "style": "EaseOutCubic",
+  "workspace": {
+    "kind": "Slide",
+    "duration": 350,
+    "bezier": [0.05, 0.9, 0.1, 1.05],
+    "backdrop_blur": false,
+    "backdrop_blur_radius": 30,
+    "shadow": false,
+    "backdrop_profiles": [
+      { "exe": "WindowsTerminal.exe", "gain": [1.447, 1.454, 1.49], "offset": [3.9, 3.4, -0.4] },
+      { "exe": "Zed.exe", "gain": [0.922, 0.926, 0.939], "offset": [6.3, 6.8, 4.9] }
+    ]
+  },
+  "windows": {
+    "duration": 400,
+    "bezier": [0.05, 0.9, 0.1, 1.05]
+  }
+},
+"close_at_app_start_rules": [
+  [
+    { "kind": "Exe", "id": "steamwebhelper.exe", "matching_strategy": "Equals" },
+    { "kind": "Class", "id": "SDL_app", "matching_strategy": "Equals" },
+    { "kind": "Title", "id": "Friends List", "matching_strategy": "Equals" }
+  ]
+],
+  "border_colours": {
+    "single": "#575758",
+    "unfocused": "#C7C7C7",
+    "monocle": "#575758",
+    "floating": "#575758"
+  },
+  "monitors": [
+    {
+      "workspaces": [
+        {
+          "name": "あ",
+          "layout": "BSP",
+          "layout_options": {
+            "scrolling": {
+              "columns": 2
+            }
+          }
+        },
+        {
+          "name": "い",
+          "layout": "BSP"
+        },
+        {
+          "name": "う",
+          "layout": "BSP"
+        },
+        {
+          "name": "え",
+          "layout": "BSP"
+        },
+        {
+          "name": "お",
+          "layout": "BSP"
+        },
+        {
+          "name": "か",
+          "layout": "BSP"
+        },
+        {
+          "name": "き",
+          "layout": "BSP"
+        },
+        {
+          "name": "く",
+          "layout": "BSP"
+        }
+      ]
+    }
+  ]
+}
